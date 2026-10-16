@@ -1,0 +1,89 @@
+Copyright- und Lizenzkommentare aus dem veröffentlichten Quellarchiv.
+Komponente: androidx.collection:collection:1.5.0
+Die Kommentare sind unverändert; identische Kommentare sind zusammengefasst.
+
+===== ARCHIVE ENTRIES: commonMain/androidx/collection/CircularArray.kt, commonMain/androidx/collection/CircularIntArray.kt, commonMain/androidx/collection/CollectionPlatformUtils.kt, commonMain/androidx/collection/LruCache.kt, commonMain/androidx/collection/SparseArray.kt, commonMain/androidx/collection/SparseArrayCompat.kt, commonMain/androidx/collection/internal/ContainerHelpers.kt, commonMain/androidx/collection/internal/Lock.kt, commonMain/androidx/collection/internal/LockExt.kt, commonMain/androidx/collection/internal/LruHashMap.kt, darwinMain/androidx.collection.internal/Lock.mac.kt, linuxMain/androidx/collection/internal/Lock.linux.kt, nativeMain/androidx/collection/internal/Lock.native.kt, nonJvmMain/androidx/collection/ArraySet.nonJvm.kt, nonJvmMain/androidx/collection/CollectionPlatformUtils.nonJvm.kt, nonJvmMain/androidx/collection/SparseArrayCompat.nonJvm.kt, nonJvmMain/androidx/collection/internal/LruHashMap.nonJvm.kt, unixMain/androidx/collection/internal/LockImpl.unix.kt =====
+/*
+ * Copyright 2022 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: commonMain/androidx/collection/IndexBasedArrayIterator.kt =====
+/*
+ * Copyright 2020 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: commonMain/androidx/collection/ArraySet.kt, commonMain/androidx/collection/LongSparseArray.kt, commonMain/androidx/collection/SimpleArrayMap.kt, nonJvmMain/androidx/collection/LongSparseArray.nonJvm.kt =====
+/*
+ * Copyright 2018 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: commonMain/androidx/collection/DoubleSet.kt, commonMain/androidx/collection/SieveCache.kt, commonMain/androidx/collection/internal/RuntimeHelpers.kt, webMain/androidx/collection/internal/Lock.web.kt =====
+/*
+ * Copyright 2024 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: commonMain/androidx/collection/DoubleList.kt, commonMain/androidx/collection/FloatFloatMap.kt, commonMain/androidx/collection/FloatFloatPair.kt, commonMain/androidx/collection/FloatIntMap.kt, commonMain/androidx/collection/FloatList.kt, commonMain/androidx/collection/FloatLongMap.kt, commonMain/androidx/collection/FloatObjectMap.kt, commonMain/androidx/collection/FloatSet.kt, commonMain/androidx/collection/IntFloatMap.kt, commonMain/androidx/collection/IntIntMap.kt, commonMain/androidx/collection/IntIntPair.kt, commonMain/androidx/collection/IntList.kt, commonMain/androidx/collection/IntLongMap.kt, commonMain/androidx/collection/IntObjectMap.kt, commonMain/androidx/collection/IntSet.kt, commonMain/androidx/collection/LongFloatMap.kt, commonMain/androidx/collection/LongIntMap.kt, commonMain/androidx/collection/LongList.kt, commonMain/androidx/collection/LongLongMap.kt, commonMain/androidx/collection/LongLongPair.kt, commonMain/androidx/collection/LongObjectMap.kt, commonMain/androidx/collection/LongSet.kt, commonMain/androidx/collection/ObjectFloatMap.kt, commonMain/androidx/collection/ObjectIntMap.kt, commonMain/androidx/collection/ObjectList.kt, commonMain/androidx/collection/ObjectLongMap.kt, commonMain/androidx/collection/OrderedScatterSet.kt, commonMain/androidx/collection/PackingUtils.kt, commonMain/androidx/collection/ScatterMap.kt, commonMain/androidx/collection/ScatterSet.kt, commonMain/androidx/collection/internal/PackingHelpers.kt, nonJvmMain/androidx/collection/internal/PackingHelpers.nonJvm.kt =====
+/*
+ * Copyright 2023 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+

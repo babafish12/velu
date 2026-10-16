@@ -1,0 +1,48 @@
+# Local Android/Gradle/IDE state
+.gradle/
+.gradle-home/
+.kotlin/
+**/build/
+local.properties
+.idea/
+*.iml
+.cxx/
+**/.cxx/
+.externalNativeBuild/
+.DS_Store
+
+# Private signing and local credentials; never publish these
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.key
+.env
+.env.*
+**/credentials*.json
+**/auth-tokens*.json
+signing.properties
+keystore.properties
+
+# Generated local reports/artifacts, not source or public media
+/artifacts/
+/reports/
+/test-results/
+/dist/
+*.apk
+*.aab
+*.log
+__pycache__/
+*.py[cod]
+
+# Local-only tooling, internal evidence and model downloads
+.devtools/
+/.hermes/
+/evidence/
+/reviews/
+*.gguf
+*.ggml
+*.safetensors
+
+# Do not ignore docs/media/, Gradle wrapper files, or license texts.
+# Ignore rules do not remove previously tracked files or private history.

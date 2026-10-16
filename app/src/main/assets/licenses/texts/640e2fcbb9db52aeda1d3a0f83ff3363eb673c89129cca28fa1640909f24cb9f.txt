@@ -1,0 +1,364 @@
+Copyright- und Lizenzkommentare aus dem veröffentlichten Quellarchiv.
+Komponente: com.nimbusds:nimbus-jose-jwt:10.10
+Die Kommentare sind unverändert; identische Kommentare sind zusammengefasst.
+
+===== ARCHIVE ENTRIES: com/nimbusds/jose/util/JSONArrayUtils.java, com/nimbusds/jose/jwk/OctetSequenceKey.java, com/nimbusds/jose/jwk/ECKey.java, com/nimbusds/jose/jwk/RSAKey.java =====
+/*
+ * nimbus-jose-jwt
+ *
+ * Copyright 2012-2024, Connect2id Ltd.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: com/nimbusds/jose/crypto/impl/AESGCM.java, com/nimbusds/jose/jwk/OctetKeyPair.java =====
+/*
+ * nimbus-jose-jwt
+ *
+ * Copyright 2012-2024, Connect2id Ltd and contributors.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: com/nimbusds/jose/jwk/gen/OctetKeyPairGenerator.java =====
+/*
+ * nimbus-jose-jwt
+ *
+ * Copyright 2012-2018, Connect2id Ltd and contributors.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: com/nimbusds/jwt/proc/DefaultJWTProcessor.java, com/nimbusds/jose/proc/JOSEProcessorConfiguration.java, com/nimbusds/jose/proc/JWSAlgorithmFamilyJWSKeySelector.java, com/nimbusds/jose/proc/JWSVerificationKeySelector.java, com/nimbusds/jose/proc/DefaultJOSEProcessor.java, com/nimbusds/jose/proc/JWEDecryptionKeySelector.java, com/nimbusds/jose/crypto/ECDHEncrypter.java, com/nimbusds/jose/jwk/JWKMatcher.java =====
+/*
+ * nimbus-jose-jwt
+ *
+ * Copyright 2012-2019, Connect2id Ltd.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: com/nimbusds/jose/crypto/MACSigner.java =====
+/*
+ * nimbus-jose-jwt
+ *
+ * Copyright 2012-2023, Connect2id Ltd.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: com/nimbusds/jose/jwk/source/JWKSetBasedJWKSource.java =====
+/*
+ * nimbus-jose-jwt
+ *
+ * Copyright 2012-2016, Connect2id Ltd.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at
+ *
+ *	http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: com/nimbusds/jose/crypto/impl/MACProvider.java, com/nimbusds/jose/crypto/impl/HMAC.java, com/nimbusds/jose/JWEObjectJSON.java, com/nimbusds/jose/JWSObjectJSON.java =====
+/*
+ * nimbus-jose-jwt
+ *
+ * Copyright 2012-2023, Connect2id Ltd and contributors.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: com/nimbusds/jose/crypto/RSASSASigner.java, com/nimbusds/jose/crypto/RSADecrypter.java, com/nimbusds/jose/crypto/RSAEncrypter.java, com/nimbusds/jose/crypto/ECDSASigner.java =====
+/*
+ * nimbus-jose-jwt
+ *
+ * Copyright 2012-2025, Connect2id Ltd.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: com/nimbusds/jose/util/Base64Codec.java, com/nimbusds/jose/crypto/Ed25519Verifier.java, com/nimbusds/jose/crypto/Ed25519Signer.java, com/nimbusds/jose/jwk/JWKSet.java =====
+/*
+ * nimbus-jose-jwt
+ *
+ * Copyright 2012-2018, Connect2id Ltd.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: com/nimbusds/jose/crypto/opts/MaxDecompressedPlainTextLength.java, com/nimbusds/jose/crypto/ECDH1PUX25519Decrypter.java, com/nimbusds/jose/crypto/impl/ECDH1PUCryptoProvider.java, com/nimbusds/jose/crypto/impl/ECDHCryptoProvider.java, com/nimbusds/jose/crypto/ECDH1PUDecrypter.java =====
+/*
+ * nimbus-jose-jwt
+ *
+ * Copyright 2012-2026, Connect2id Ltd and contributors.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: com/nimbusds/jwt/proc/ClockSkewAware.java, com/nimbusds/jwt/proc/JWTProcessor.java, com/nimbusds/jwt/proc/DefaultJWTClaimsVerifier.java, com/nimbusds/jwt/proc/BadJWTException.java, com/nimbusds/jwt/proc/JWTClaimsSetVerifier.java, com/nimbusds/jwt/proc/ConfigurableJWTProcessor.java, com/nimbusds/jwt/proc/package-info.java, com/nimbusds/jwt/proc/JWTProcessorConfiguration.java, com/nimbusds/jwt/JWTParser.java, com/nimbusds/jwt/JWTClaimsSet.java, com/nimbusds/jwt/util/DateUtils.java, com/nimbusds/jwt/util/package-info.java, com/nimbusds/jwt/PlainJWT.java, com/nimbusds/jwt/SignedJWT.java, com/nimbusds/jwt/JWT.java, com/nimbusds/jwt/JWTClaimsSetTransformer.java, com/nimbusds/jwt/EncryptedJWT.java, com/nimbusds/jwt/package-info.java, com/nimbusds/jose/KeyTypeException.java, com/nimbusds/jose/proc/BadJWSException.java, com/nimbusds/jose/proc/SecurityContext.java, com/nimbusds/jose/proc/JWSKeySelector.java, com/nimbusds/jose/proc/JWEDecrypterFactory.java, com/nimbusds/jose/proc/JWEKeySelector.java, com/nimbusds/jose/proc/BadJOSEException.java, com/nimbusds/jose/proc/AbstractJWKSelectorWithSource.java, com/nimbusds/jose/proc/SimpleSecurityContext.java, com/nimbusds/jose/proc/ConfigurableJOSEProcessor.java, com/nimbusds/jose/proc/JOSEProcessor.java, com/nimbusds/jose/proc/JWSVerifierFactory.java, com/nimbusds/jose/proc/package-info.java, com/nimbusds/jose/proc/BadJWEException.java, com/nimbusds/jose/proc/JOSEMatcher.java, com/nimbusds/jose/JWEEncrypter.java, com/nimbusds/jose/JWEProvider.java, com/nimbusds/jose/JWSObject.java, com/nimbusds/jose/JWSProvider.java, com/nimbusds/jose/Header.java, com/nimbusds/jose/JWSVerifier.java, com/nimbusds/jose/util/Base64URL.java, com/nimbusds/jose/util/DeflateUtils.java, com/nimbusds/jose/util/IntegerUtils.java, com/nimbusds/jose/util/BigIntegerUtils.java, com/nimbusds/jose/util/X509CertChainUtils.java, com/nimbusds/jose/util/DateUtils.java, com/nimbusds/jose/util/StandardCharset.java, com/nimbusds/jose/util/Base64.java, com/nimbusds/jose/util/ArrayUtils.java, com/nimbusds/jose/util/Resource.java, com/nimbusds/jose/util/DefaultResourceRetriever.java, com/nimbusds/jose/util/RestrictedResourceRetriever.java, com/nimbusds/jose/util/AbstractRestrictedResourceRetriever.java, com/nimbusds/jose/util/package-info.java, com/nimbusds/jose/util/ResourceRetriever.java, com/nimbusds/jose/util/JSONObjectUtils.java, com/nimbusds/jose/util/ByteUtils.java, com/nimbusds/jose/JWEHeader.java, com/nimbusds/jose/JWSHeader.java, com/nimbusds/jose/JWEDecrypter.java, com/nimbusds/jose/Requirement.java, com/nimbusds/jose/JWECryptoParts.java, com/nimbusds/jose/RemoteKeySourceException.java, com/nimbusds/jose/JOSEException.java, com/nimbusds/jose/CommonSEHeader.java, com/nimbusds/jose/EncryptionMethod.java, com/nimbusds/jose/KeyLengthException.java, com/nimbusds/jose/crypto/PasswordBasedDecrypter.java, com/nimbusds/jose/crypto/bc/BouncyCastleProviderSingleton.java, com/nimbusds/jose/crypto/factories/DefaultJWEDecrypterFactory.java, com/nimbusds/jose/crypto/factories/DefaultJWSVerifierFactory.java, com/nimbusds/jose/crypto/factories/package-info.java, com/nimbusds/jose/crypto/MultiEncrypter.java, com/nimbusds/jose/crypto/ECDSAVerifier.java, com/nimbusds/jose/crypto/DirectEncrypter.java, com/nimbusds/jose/crypto/X25519Encrypter.java, com/nimbusds/jose/crypto/PasswordBasedEncrypter.java, com/nimbusds/jose/crypto/package-info.java, com/nimbusds/jose/crypto/MACVerifier.java, com/nimbusds/jose/crypto/RSASSAVerifier.java, com/nimbusds/jose/JOSEObjectJSON.java, com/nimbusds/jose/JWSAlgorithm.java, com/nimbusds/jose/JWSSigner.java, com/nimbusds/jose/KeyException.java, com/nimbusds/jose/Payload.java, com/nimbusds/jose/jwk/SecretJWK.java, com/nimbusds/jose/jwk/AsymmetricJWK.java, com/nimbusds/jose/jwk/JWKMetadata.java, com/nimbusds/jose/jwk/ThumbprintUtils.java, com/nimbusds/jose/jwk/KeyOperation.java, com/nimbusds/jose/jwk/ECParameterTable.java, com/nimbusds/jose/jwk/source/JWKSource.java, com/nimbusds/jose/jwk/source/ImmutableJWKSet.java, com/nimbusds/jose/jwk/source/ImmutableSecret.java, com/nimbusds/jose/jwk/source/RemoteJWKSet.java, com/nimbusds/jose/jwk/KeyUse.java, com/nimbusds/jose/jwk/JWKSelector.java, com/nimbusds/jose/jwk/JWK.java, com/nimbusds/jose/jwk/KeyType.java, com/nimbusds/jose/jwk/package-info.java, com/nimbusds/jose/jwk/KeyConverter.java, com/nimbusds/jose/CriticalHeaderParamsAware.java, com/nimbusds/jose/AlgorithmFamily.java, com/nimbusds/jose/PlainHeader.java, com/nimbusds/jose/JOSEProvider.java, com/nimbusds/jose/CompressionAlgorithm.java, com/nimbusds/jose/package-info.java, com/nimbusds/jose/jca/JCAContext.java, com/nimbusds/jose/jca/JCAAware.java, com/nimbusds/jose/jca/JWEJCAContext.java, com/nimbusds/jose/jca/JCASupport.java, com/nimbusds/jose/jca/package-info.java, com/nimbusds/jose/PlainObject.java, com/nimbusds/jose/Algorithm.java, com/nimbusds/jose/PayloadTransformer.java, com/nimbusds/jose/JOSEObject.java, com/nimbusds/jose/JWEAlgorithm.java, com/nimbusds/jose/JOSEObjectType.java, com/nimbusds/jose/JWEObject.java, com/nimbusds/jose/KeySourceException.java =====
+/*
+ * nimbus-jose-jwt
+ *
+ * Copyright 2012-2016, Connect2id Ltd.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: com/nimbusds/jose/jwk/source/RefreshAheadCachingJWKSetSource.java, com/nimbusds/jose/jwk/source/JWKSetSourceWrapper.java, com/nimbusds/jose/jwk/source/RateLimitedJWKSetSource.java, com/nimbusds/jose/jwk/source/JWKSetSourceWithHealthStatusReporting.java, com/nimbusds/jose/jwk/source/JWKSourceBuilder.java, com/nimbusds/jose/jwk/source/JWKSetSource.java, com/nimbusds/jose/jwk/source/RateLimitReachedException.java, com/nimbusds/jose/jwk/source/CachingJWKSetSource.java, com/nimbusds/jose/jwk/source/JWKSetUnavailableException.java, com/nimbusds/jose/jwk/source/OutageTolerantJWKSetSource.java, com/nimbusds/jose/jwk/source/RetryingJWKSetSource.java, com/nimbusds/jose/jwk/source/package-info.java, com/nimbusds/jose/jwk/source/URLBasedJWKSetSource.java, com/nimbusds/jose/jwk/source/AbstractCachingJWKSetSource.java =====
+/*
+ * nimbus-jose-jwt
+ *
+ * Copyright 2012-2022, Connect2id Ltd.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: com/nimbusds/jose/crypto/factories/DefaultJWSSignerFactory.java =====
+/*
+ * nimbus-jose-jwt
+ *
+ * Copyright 2012-2020, Connect2id Ltd.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: com/nimbusds/jose/util/Pair.java, com/nimbusds/jose/crypto/impl/XC20P.java, com/nimbusds/jose/crypto/impl/ECDH1PU.java, com/nimbusds/jose/crypto/ECDH1PUX25519Encrypter.java, com/nimbusds/jose/crypto/ECDH1PUEncrypter.java, com/nimbusds/jose/mint/package-info.java, com/nimbusds/jose/JSONSerializable.java =====
+/*
+ * nimbus-jose-jwt
+ *
+ * Copyright 2012-2021, Connect2id Ltd and contributors.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: com/nimbusds/jose/proc/JOSEObjectTypeVerifier.java, com/nimbusds/jose/jwk/source/JWKSecurityContextJWKSet.java =====
+/*
+ * nimbus-jose-jwt
+ *
+ * Copyright 2012-2019, Connect2id Ltd and contributors.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: com/nimbusds/jose/JWSSignerOption.java, com/nimbusds/jose/JWEEncrypterOption.java, com/nimbusds/jose/crypto/opts/OptionUtils.java, com/nimbusds/jose/crypto/impl/RSA_OAEP_SHA2.java, com/nimbusds/jose/JWEDecrypterOption.java, com/nimbusds/jose/Option.java =====
+/*
+ * nimbus-jose-jwt
+ *
+ * Copyright 2012-2025, Connect2id Ltd and contributors.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: com/nimbusds/jose/crypto/bc/BouncyCastleFIPSProviderSingleton.java =====
+/*
+ * nimbus-jose-jwt
+ *
+ * Copyright 2012-2021, Connect2id Ltd.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: com/nimbusds/jwt/proc/JWTClaimsSetAwareJWSKeySelector.java, com/nimbusds/jwt/proc/ExpiredJWTException.java, com/nimbusds/jose/proc/JWKSecurityContext.java, com/nimbusds/jose/proc/DefaultJOSEObjectTypeVerifier.java, com/nimbusds/jose/HeaderValidation.java, com/nimbusds/jose/util/Container.java, com/nimbusds/jose/util/IntegerOverflowException.java, com/nimbusds/jose/util/CollectionUtils.java, com/nimbusds/jose/util/JSONStringUtils.java, com/nimbusds/jose/util/health/HealthReportListener.java, com/nimbusds/jose/util/health/HealthReport.java, com/nimbusds/jose/util/health/HealthStatus.java, com/nimbusds/jose/util/health/package-info.java, com/nimbusds/jose/util/events/EventListener.java, com/nimbusds/jose/util/events/package-info.java, com/nimbusds/jose/util/events/Event.java, com/nimbusds/jose/util/IOUtils.java, com/nimbusds/jose/util/KeyUtils.java, com/nimbusds/jose/util/BoundedInputStream.java, com/nimbusds/jose/util/cache/CachedObject.java, com/nimbusds/jose/util/cache/package-info.java, com/nimbusds/jose/ActionRequiredForJWSCompletionException.java, com/nimbusds/jose/crypto/utils/ConstantTimeUtils.java, com/nimbusds/jose/crypto/utils/ECChecks.java, com/nimbusds/jose/crypto/utils/package-info.java, com/nimbusds/jose/crypto/opts/UserAuthenticationRequired.java, com/nimbusds/jose/crypto/opts/CipherMode.java, com/nimbusds/jose/crypto/opts/AllowWeakRSAKey.java, com/nimbusds/jose/crypto/opts/MaxCompressedCipherTextLength.java, com/nimbusds/jose/crypto/opts/package-info.java, com/nimbusds/jose/crypto/impl/JWEHeaderValidation.java, com/nimbusds/jose/crypto/impl/AlgorithmSupportMessage.java, com/nimbusds/jose/crypto/impl/AESKW.java, com/nimbusds/jose/crypto/impl/CipherHelper.java, com/nimbusds/jose/crypto/impl/MultiCryptoProvider.java, com/nimbusds/jose/crypto/impl/PRFParams.java, com/nimbusds/jose/crypto/impl/DirectCryptoProvider.java, com/nimbusds/jose/crypto/impl/AlgorithmParametersHelper.java, com/nimbusds/jose/crypto/impl/RSACryptoProvider.java, com/nimbusds/jose/crypto/impl/AAD.java, com/nimbusds/jose/crypto/impl/AuthenticatedCipherText.java, com/nimbusds/jose/crypto/impl/BaseJWSProvider.java, com/nimbusds/jose/crypto/impl/ECDSAProvider.java, com/nimbusds/jose/crypto/impl/RSA_OAEP.java, com/nimbusds/jose/crypto/impl/RSASSA.java, com/nimbusds/jose/crypto/impl/EdDSAProvider.java, com/nimbusds/jose/crypto/impl/PasswordBasedCryptoProvider.java, com/nimbusds/jose/crypto/impl/RSA1_5.java, com/nimbusds/jose/crypto/impl/LegacyConcatKDF.java, com/nimbusds/jose/crypto/impl/CompositeKey.java, com/nimbusds/jose/crypto/impl/ContentCryptoProvider.java, com/nimbusds/jose/crypto/impl/ECDH.java, com/nimbusds/jose/crypto/impl/CriticalHeaderParamsDeferral.java, com/nimbusds/jose/crypto/impl/DeflateHelper.java, com/nimbusds/jose/crypto/impl/RSAKeyUtils.java, com/nimbusds/jose/crypto/impl/PBKDF2.java, com/nimbusds/jose/crypto/impl/ECDSA.java, com/nimbusds/jose/crypto/impl/AESGCMKW.java, com/nimbusds/jose/crypto/impl/ConcatKDF.java, com/nimbusds/jose/crypto/impl/RSASSAProvider.java, com/nimbusds/jose/crypto/impl/AESCBC.java, com/nimbusds/jose/crypto/impl/package-info.java, com/nimbusds/jose/crypto/impl/AESCryptoProvider.java, com/nimbusds/jose/crypto/impl/BaseJWEProvider.java, com/nimbusds/jose/crypto/AESEncrypter.java, com/nimbusds/jose/jwk/PEMEncodedKeyParser.java, com/nimbusds/jose/jwk/KeyUseAndOpsConsistency.java, com/nimbusds/jose/jwk/source/DefaultJWKSetCache.java, com/nimbusds/jose/jwk/source/ForceRefreshJWKSetCacheEvaluator.java, com/nimbusds/jose/jwk/source/JWKSetWithTimestamp.java, com/nimbusds/jose/jwk/source/NoRefreshJWKSetCacheEvaluator.java, com/nimbusds/jose/jwk/source/JWKSetCache.java, com/nimbusds/jose/jwk/source/AbstractJWKSetSourceEvent.java, com/nimbusds/jose/jwk/source/ReferenceComparisonRefreshJWKSetEvaluator.java, com/nimbusds/jose/jwk/Curve.java, com/nimbusds/jose/jwk/CurveBasedJWK.java, com/nimbusds/jose/jwk/PasswordLookup.java, com/nimbusds/jose/jwk/KeyRevocation.java, com/nimbusds/jose/jwk/ThumbprintURI.java, com/nimbusds/jose/jwk/gen/ECKeyGenerator.java, com/nimbusds/jose/jwk/gen/JWKGenerator.java, com/nimbusds/jose/jwk/gen/RSAKeyGenerator.java, com/nimbusds/jose/jwk/gen/package-info.java, com/nimbusds/jose/jwk/gen/OctetSequenceKeyGenerator.java, com/nimbusds/jose/jwk/JWKException.java, com/nimbusds/jose/IllegalHeaderException.java, com/nimbusds/jose/produce/JWSSignerFactory.java, com/nimbusds/jose/produce/package-info.java, com/nimbusds/jose/CompletableJWSObjectSigning.java =====
+/*
+ * nimbus-jose-jwt
+ *
+ * Copyright 2012-2016, Connect2id Ltd and contributors.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: com/nimbusds/jose/util/X509CertUtils.java, com/nimbusds/jose/crypto/ECDHDecrypter.java, com/nimbusds/jose/crypto/DirectDecrypter.java, com/nimbusds/jose/crypto/X25519Decrypter.java, com/nimbusds/jose/crypto/MultiDecrypter.java, com/nimbusds/jose/crypto/AESDecrypter.java =====
+/*
+ * nimbus-jose-jwt
+ *
+ * Copyright 2012-2026, Connect2id Ltd.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: com/nimbusds/jose/jwk/source/JWKSourceWithFailover.java =====
+/*
+ * nimbus-jose-jwt
+ *
+ * Copyright 2012-2022, Connect2id Ltd.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at
+ *
+ *	http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software distributed
+ * under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+ * CONDITIONS OF ANY KIND, either express or implied. See the License for the
+ * specific language governing permissions and limitations under the License.
+ */
+

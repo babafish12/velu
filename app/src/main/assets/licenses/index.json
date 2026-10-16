@@ -1,0 +1,2087 @@
+{
+  "schemaVersion": 1,
+  "title": "Velu – Lizenzen und Urheberrechtshinweise",
+  "entries": [
+    {
+      "id": "f8392ef1e03247ac25b363ac78fa7593fab8a9f3493fb4ba964f47e6f5687174",
+      "title": "activity 1.13.0 – Quellkommentar-Auszüge",
+      "path": "texts/f8392ef1e03247ac25b363ac78fa7593fab8a9f3493fb4ba964f47e6f5687174.txt",
+      "sha256": "f8392ef1e03247ac25b363ac78fa7593fab8a9f3493fb4ba964f47e6f5687174",
+      "sizeBytes": 6747,
+      "kind": "attribution",
+      "components": [
+        "androidx.activity:activity:1.13.0"
+      ]
+    },
+    {
+      "id": "95e0fab7fb3a37a3dde7eba8be1436c0b7b7a291ef625e056c3cc5287738a0d6",
+      "title": "activity-compose 1.13.0 – Quellkommentar-Auszüge",
+      "path": "texts/95e0fab7fb3a37a3dde7eba8be1436c0b7b7a291ef625e056c3cc5287738a0d6.txt",
+      "sha256": "95e0fab7fb3a37a3dde7eba8be1436c0b7b7a291ef625e056c3cc5287738a0d6",
+      "sizeBytes": 3885,
+      "kind": "attribution",
+      "components": [
+        "androidx.activity:activity-compose:1.13.0"
+      ]
+    },
+    {
+      "id": "6d3603b003f2e2b98158ad942465b9722112aea549d34b36a84289c30fed7a97",
+      "title": "AndroidX Native – Quellkommentar-Auszüge",
+      "path": "texts/6d3603b003f2e2b98158ad942465b9722112aea549d34b36a84289c30fed7a97.txt",
+      "sha256": "6d3603b003f2e2b98158ad942465b9722112aea549d34b36a84289c30fed7a97",
+      "sizeBytes": 8369,
+      "kind": "attribution",
+      "components": [
+        "androidx.datastore:datastore-core-android:1.2.1",
+        "androidx.graphics:graphics-path:1.0.1"
+      ]
+    },
+    {
+      "id": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0",
+      "title": "AndroidX – Apache License 2.0 (Archivfassung)",
+      "path": "texts/809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0.txt",
+      "sha256": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0",
+      "sizeBytes": 10175,
+      "kind": "license",
+      "components": [
+        "androidx.activity:activity-compose:1.13.0",
+        "androidx.activity:activity-ktx:1.13.0",
+        "androidx.activity:activity:1.13.0",
+        "androidx.annotation:annotation-experimental:1.5.0",
+        "androidx.annotation:annotation-jvm:1.10.0",
+        "androidx.annotation:annotation:1.10.0",
+        "androidx.collection:collection-jvm:1.5.0",
+        "androidx.collection:collection-ktx:1.5.0",
+        "androidx.collection:collection:1.5.0",
+        "androidx.compose.animation:animation-android:1.12.1",
+        "androidx.compose.animation:animation-core-android:1.12.1",
+        "androidx.compose.animation:animation-core:1.12.1",
+        "androidx.compose.animation:animation:1.12.1",
+        "androidx.compose.foundation:foundation-android:1.12.1",
+        "androidx.compose.foundation:foundation-layout-android:1.12.1",
+        "androidx.compose.foundation:foundation-layout:1.12.1",
+        "androidx.compose.foundation:foundation:1.12.1",
+        "androidx.compose.material3:material3-android:1.4.0",
+        "androidx.compose.material3:material3:1.4.0",
+        "androidx.compose.material:material-ripple-android:1.12.1",
+        "androidx.compose.material:material-ripple:1.12.1",
+        "androidx.compose.runtime:runtime-android:1.12.1",
+        "androidx.compose.runtime:runtime-annotation-android:1.12.1",
+        "androidx.compose.runtime:runtime-annotation:1.12.1",
+        "androidx.compose.runtime:runtime-retain-android:1.12.1",
+        "androidx.compose.runtime:runtime-retain:1.12.1",
+        "androidx.compose.runtime:runtime-saveable-android:1.12.1",
+        "androidx.compose.runtime:runtime-saveable:1.12.1",
+        "androidx.compose.runtime:runtime:1.12.1",
+        "androidx.compose.ui:ui-android:1.12.1",
+        "androidx.compose.ui:ui-geometry-android:1.12.1",
+        "androidx.compose.ui:ui-geometry:1.12.1",
+        "androidx.compose.ui:ui-graphics-android:1.12.1",
+        "androidx.compose.ui:ui-graphics:1.12.1",
+        "androidx.compose.ui:ui-text-android:1.12.1",
+        "androidx.compose.ui:ui-text:1.12.1",
+        "androidx.compose.ui:ui-unit-android:1.12.1",
+        "androidx.compose.ui:ui-unit:1.12.1",
+        "androidx.compose.ui:ui-util-android:1.12.1",
+        "androidx.compose.ui:ui-util:1.12.1",
+        "androidx.compose.ui:ui:1.12.1",
+        "androidx.core:core-ktx:1.18.0",
+        "androidx.core:core-viewtree:1.0.0",
+        "androidx.core:core:1.18.0",
+        "androidx.datastore:datastore-android:1.2.1",
+        "androidx.datastore:datastore-core-android:1.2.1",
+        "androidx.datastore:datastore-core-okio-jvm:1.2.1",
+        "androidx.datastore:datastore-core-okio:1.2.1",
+        "androidx.datastore:datastore-core:1.2.1",
+        "androidx.datastore:datastore-preferences-android:1.2.1",
+        "androidx.datastore:datastore-preferences-core-android:1.2.1",
+        "androidx.datastore:datastore-preferences-core:1.2.1",
+        "androidx.datastore:datastore-preferences-proto:1.2.1",
+        "androidx.datastore:datastore-preferences:1.2.1",
+        "androidx.datastore:datastore:1.2.1",
+        "androidx.lifecycle:lifecycle-common-java8:2.11.0",
+        "androidx.lifecycle:lifecycle-common-jvm:2.11.0",
+        "androidx.lifecycle:lifecycle-common:2.11.0",
+        "androidx.lifecycle:lifecycle-livedata-core-ktx:2.11.0",
+        "androidx.lifecycle:lifecycle-livedata-core:2.11.0",
+        "androidx.lifecycle:lifecycle-livedata:2.11.0",
+        "androidx.lifecycle:lifecycle-process:2.11.0",
+        "androidx.lifecycle:lifecycle-runtime-android:2.11.0",
+        "androidx.lifecycle:lifecycle-runtime-compose-android:2.11.0",
+        "androidx.lifecycle:lifecycle-runtime-compose:2.11.0",
+        "androidx.lifecycle:lifecycle-runtime-ktx-android:2.11.0",
+        "androidx.lifecycle:lifecycle-runtime-ktx:2.11.0",
+        "androidx.lifecycle:lifecycle-runtime:2.11.0",
+        "androidx.lifecycle:lifecycle-service:2.11.0",
+        "androidx.lifecycle:lifecycle-viewmodel-android:2.11.0",
+        "androidx.lifecycle:lifecycle-viewmodel-compose-android:2.11.0",
+        "androidx.lifecycle:lifecycle-viewmodel-compose:2.11.0",
+        "androidx.lifecycle:lifecycle-viewmodel-ktx:2.11.0",
+        "androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.11.0",
+        "androidx.lifecycle:lifecycle-viewmodel-savedstate:2.11.0",
+        "androidx.lifecycle:lifecycle-viewmodel:2.11.0",
+        "androidx.navigation:navigation-common-android:2.10.2",
+        "androidx.navigation:navigation-common:2.10.2",
+        "androidx.navigation:navigation-compose-android:2.10.2",
+        "androidx.navigation:navigation-compose:2.10.2",
+        "androidx.navigation:navigation-runtime-android:2.10.2",
+        "androidx.navigation:navigation-runtime:2.10.2",
+        "androidx.navigationevent:navigationevent-android:1.1.2",
+        "androidx.navigationevent:navigationevent-compose-android:1.1.2",
+        "androidx.navigationevent:navigationevent-compose:1.1.2",
+        "androidx.navigationevent:navigationevent:1.1.2",
+        "androidx.profileinstaller:profileinstaller:1.4.0",
+        "androidx.room:room-common-jvm:2.8.5",
+        "androidx.room:room-common:2.8.5",
+        "androidx.room:room-ktx:2.8.5",
+        "androidx.room:room-runtime-android:2.8.5",
+        "androidx.room:room-runtime:2.8.5",
+        "androidx.savedstate:savedstate-android:1.5.0",
+        "androidx.savedstate:savedstate-compose-android:1.5.0",
+        "androidx.savedstate:savedstate-compose:1.5.0",
+        "androidx.savedstate:savedstate-ktx:1.5.0",
+        "androidx.savedstate:savedstate:1.5.0",
+        "androidx.sqlite:sqlite-android:2.6.2",
+        "androidx.sqlite:sqlite-framework-android:2.6.2",
+        "androidx.sqlite:sqlite-framework:2.6.2",
+        "androidx.sqlite:sqlite:2.6.2",
+        "androidx.startup:startup-runtime:1.2.0",
+        "androidx.window:window-core-android:1.5.0",
+        "androidx.window:window-core:1.5.0",
+        "androidx.window:window:1.5.0"
+      ]
+    },
+    {
+      "id": "118b9e1a5edbf4490e4287a8da11e40129d76a220203e26185d71557fe859a55",
+      "title": "animation 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/118b9e1a5edbf4490e4287a8da11e40129d76a220203e26185d71557fe859a55.txt",
+      "sha256": "118b9e1a5edbf4490e4287a8da11e40129d76a220203e26185d71557fe859a55",
+      "sizeBytes": 6993,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.animation:animation:1.12.1"
+      ]
+    },
+    {
+      "id": "9f9e22d9958f23e2e697219eb63ff706cce3e2f25137a34bb668a80343842c87",
+      "title": "animation-android 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/9f9e22d9958f23e2e697219eb63ff706cce3e2f25137a34bb668a80343842c87.txt",
+      "sha256": "9f9e22d9958f23e2e697219eb63ff706cce3e2f25137a34bb668a80343842c87",
+      "sizeBytes": 6929,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.animation:animation-android:1.12.1"
+      ]
+    },
+    {
+      "id": "2ba85b303c1be8f45c7066e49322346ac22ae406659a9e77c22b1e011f08b539",
+      "title": "animation-core 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/2ba85b303c1be8f45c7066e49322346ac22ae406659a9e77c22b1e011f08b539.txt",
+      "sha256": "2ba85b303c1be8f45c7066e49322346ac22ae406659a9e77c22b1e011f08b539",
+      "sizeBytes": 7583,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.animation:animation-core:1.12.1"
+      ]
+    },
+    {
+      "id": "f8a5caa9034180c2a1efb7363c30ab6bdcefb88ff6e795ea938e3940fb0685e5",
+      "title": "animation-core-android 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/f8a5caa9034180c2a1efb7363c30ab6bdcefb88ff6e795ea938e3940fb0685e5.txt",
+      "sha256": "f8a5caa9034180c2a1efb7363c30ab6bdcefb88ff6e795ea938e3940fb0685e5",
+      "sizeBytes": 7512,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.animation:animation-core-android:1.12.1"
+      ]
+    },
+    {
+      "id": "75ed9ae9bc6c2efef2af4d7bef6f21aa369fa99f08131dd0065bb1af76bd0810",
+      "title": "annotation 1.10.0 – Quellkommentar-Auszüge",
+      "path": "texts/75ed9ae9bc6c2efef2af4d7bef6f21aa369fa99f08131dd0065bb1af76bd0810.txt",
+      "sha256": "75ed9ae9bc6c2efef2af4d7bef6f21aa369fa99f08131dd0065bb1af76bd0810",
+      "sizeBytes": 6500,
+      "kind": "attribution",
+      "components": [
+        "androidx.annotation:annotation:1.10.0"
+      ]
+    },
+    {
+      "id": "71ba4f83163be6ff5eb0e853783aa040358958bdf757daac824246a77964959c",
+      "title": "annotation-experimental 1.5.0 – Quellkommentar-Auszüge",
+      "path": "texts/71ba4f83163be6ff5eb0e853783aa040358958bdf757daac824246a77964959c.txt",
+      "sha256": "71ba4f83163be6ff5eb0e853783aa040358958bdf757daac824246a77964959c",
+      "sizeBytes": 1673,
+      "kind": "attribution",
+      "components": [
+        "androidx.annotation:annotation-experimental:1.5.0"
+      ]
+    },
+    {
+      "id": "ff52ff3f4cfbfef778acc161e4837b4e04c085d2406c19a3df666f9bffadefe7",
+      "title": "annotation-jvm 1.10.0 – Quellkommentar-Auszüge",
+      "path": "texts/ff52ff3f4cfbfef778acc161e4837b4e04c085d2406c19a3df666f9bffadefe7.txt",
+      "sha256": "ff52ff3f4cfbfef778acc161e4837b4e04c085d2406c19a3df666f9bffadefe7",
+      "sizeBytes": 12644,
+      "kind": "attribution",
+      "components": [
+        "androidx.annotation:annotation-jvm:1.10.0"
+      ]
+    },
+    {
+      "id": "3b8a0c2f81ace7494d075ddd1631baf3398a0f91f7cddd545b4af4aa1d150bad",
+      "title": "annotations 23.0.0 – Quellkommentar-Auszüge",
+      "path": "texts/3b8a0c2f81ace7494d075ddd1631baf3398a0f91f7cddd545b4af4aa1d150bad.txt",
+      "sha256": "3b8a0c2f81ace7494d075ddd1631baf3398a0f91f7cddd545b4af4aa1d150bad",
+      "sizeBytes": 2809,
+      "kind": "attribution",
+      "components": [
+        "org.jetbrains:annotations:23.0.0"
+      ]
+    },
+    {
+      "id": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "title": "Apache License 2.0 – Standardtext",
+      "path": "texts/cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30.txt",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "sizeBytes": 11358,
+      "kind": "license",
+      "components": [
+        "androidx.activity:activity-compose:1.13.0",
+        "androidx.activity:activity-ktx:1.13.0",
+        "androidx.activity:activity:1.13.0",
+        "androidx.annotation:annotation-experimental:1.5.0",
+        "androidx.annotation:annotation-jvm:1.10.0",
+        "androidx.annotation:annotation:1.10.0",
+        "androidx.appcompat:appcompat-resources:1.6.1",
+        "androidx.appcompat:appcompat:1.6.1",
+        "androidx.arch.core:core-common:2.2.0",
+        "androidx.arch.core:core-runtime:2.2.0",
+        "androidx.autofill:autofill:1.0.0",
+        "androidx.collection:collection-jvm:1.5.0",
+        "androidx.collection:collection-ktx:1.5.0",
+        "androidx.collection:collection:1.5.0",
+        "androidx.compose.animation:animation-android:1.12.1",
+        "androidx.compose.animation:animation-core-android:1.12.1",
+        "androidx.compose.animation:animation-core:1.12.1",
+        "androidx.compose.animation:animation:1.12.1",
+        "androidx.compose.foundation:foundation-android:1.12.1",
+        "androidx.compose.foundation:foundation-layout-android:1.12.1",
+        "androidx.compose.foundation:foundation-layout:1.12.1",
+        "androidx.compose.foundation:foundation:1.12.1",
+        "androidx.compose.material3:material3-android:1.4.0",
+        "androidx.compose.material3:material3:1.4.0",
+        "androidx.compose.material:material-ripple-android:1.12.1",
+        "androidx.compose.material:material-ripple:1.12.1",
+        "androidx.compose.runtime:runtime-android:1.12.1",
+        "androidx.compose.runtime:runtime-annotation-android:1.12.1",
+        "androidx.compose.runtime:runtime-annotation:1.12.1",
+        "androidx.compose.runtime:runtime-retain-android:1.12.1",
+        "androidx.compose.runtime:runtime-retain:1.12.1",
+        "androidx.compose.runtime:runtime-saveable-android:1.12.1",
+        "androidx.compose.runtime:runtime-saveable:1.12.1",
+        "androidx.compose.runtime:runtime:1.12.1",
+        "androidx.compose.ui:ui-android:1.12.1",
+        "androidx.compose.ui:ui-geometry-android:1.12.1",
+        "androidx.compose.ui:ui-geometry:1.12.1",
+        "androidx.compose.ui:ui-graphics-android:1.12.1",
+        "androidx.compose.ui:ui-graphics:1.12.1",
+        "androidx.compose.ui:ui-text-android:1.12.1",
+        "androidx.compose.ui:ui-text:1.12.1",
+        "androidx.compose.ui:ui-unit-android:1.12.1",
+        "androidx.compose.ui:ui-unit:1.12.1",
+        "androidx.compose.ui:ui-util-android:1.12.1",
+        "androidx.compose.ui:ui-util:1.12.1",
+        "androidx.compose.ui:ui:1.12.1",
+        "androidx.compose:compose-bom:2026.09.00",
+        "androidx.concurrent:concurrent-futures:1.2.0",
+        "androidx.core:core-ktx:1.18.0",
+        "androidx.core:core-viewtree:1.0.0",
+        "androidx.core:core:1.18.0",
+        "androidx.cursoradapter:cursoradapter:1.0.0",
+        "androidx.customview:customview-poolingcontainer:1.0.0",
+        "androidx.customview:customview:1.0.0",
+        "androidx.datastore:datastore-android:1.2.1",
+        "androidx.datastore:datastore-core-android:1.2.1",
+        "androidx.datastore:datastore-core-okio-jvm:1.2.1",
+        "androidx.datastore:datastore-core-okio:1.2.1",
+        "androidx.datastore:datastore-core:1.2.1",
+        "androidx.datastore:datastore-preferences-android:1.2.1",
+        "androidx.datastore:datastore-preferences-core-android:1.2.1",
+        "androidx.datastore:datastore-preferences-core:1.2.1",
+        "androidx.datastore:datastore-preferences-proto:1.2.1",
+        "androidx.datastore:datastore-preferences:1.2.1",
+        "androidx.datastore:datastore:1.2.1",
+        "androidx.drawerlayout:drawerlayout:1.0.0",
+        "androidx.emoji2:emoji2-views-helper:1.4.0",
+        "androidx.emoji2:emoji2:1.4.0",
+        "androidx.exifinterface:exifinterface:1.3.6",
+        "androidx.fragment:fragment:1.3.6",
+        "androidx.graphics:graphics-path:1.0.1",
+        "androidx.interpolator:interpolator:1.0.0",
+        "androidx.lifecycle:lifecycle-common-java8:2.11.0",
+        "androidx.lifecycle:lifecycle-common-jvm:2.11.0",
+        "androidx.lifecycle:lifecycle-common:2.11.0",
+        "androidx.lifecycle:lifecycle-livedata-core-ktx:2.11.0",
+        "androidx.lifecycle:lifecycle-livedata-core:2.11.0",
+        "androidx.lifecycle:lifecycle-livedata:2.11.0",
+        "androidx.lifecycle:lifecycle-process:2.11.0",
+        "androidx.lifecycle:lifecycle-runtime-android:2.11.0",
+        "androidx.lifecycle:lifecycle-runtime-compose-android:2.11.0",
+        "androidx.lifecycle:lifecycle-runtime-compose:2.11.0",
+        "androidx.lifecycle:lifecycle-runtime-ktx-android:2.11.0",
+        "androidx.lifecycle:lifecycle-runtime-ktx:2.11.0",
+        "androidx.lifecycle:lifecycle-runtime:2.11.0",
+        "androidx.lifecycle:lifecycle-service:2.11.0",
+        "androidx.lifecycle:lifecycle-viewmodel-android:2.11.0",
+        "androidx.lifecycle:lifecycle-viewmodel-compose-android:2.11.0",
+        "androidx.lifecycle:lifecycle-viewmodel-compose:2.11.0",
+        "androidx.lifecycle:lifecycle-viewmodel-ktx:2.11.0",
+        "androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.11.0",
+        "androidx.lifecycle:lifecycle-viewmodel-savedstate:2.11.0",
+        "androidx.lifecycle:lifecycle-viewmodel:2.11.0",
+        "androidx.loader:loader:1.0.0",
+        "androidx.media3:media3-common:1.11.1",
+        "androidx.media3:media3-container:1.11.1",
+        "androidx.media3:media3-database:1.11.1",
+        "androidx.media3:media3-datasource:1.11.1",
+        "androidx.media3:media3-decoder:1.11.1",
+        "androidx.media3:media3-exoplayer:1.11.1",
+        "androidx.media3:media3-extractor:1.11.1",
+        "androidx.media3:media3-session:1.11.1",
+        "androidx.media:media:1.7.0",
+        "androidx.navigation:navigation-common-android:2.10.2",
+        "androidx.navigation:navigation-common:2.10.2",
+        "androidx.navigation:navigation-compose-android:2.10.2",
+        "androidx.navigation:navigation-compose:2.10.2",
+        "androidx.navigation:navigation-runtime-android:2.10.2",
+        "androidx.navigation:navigation-runtime:2.10.2",
+        "androidx.navigationevent:navigationevent-android:1.1.2",
+        "androidx.navigationevent:navigationevent-compose-android:1.1.2",
+        "androidx.navigationevent:navigationevent-compose:1.1.2",
+        "androidx.navigationevent:navigationevent:1.1.2",
+        "androidx.profileinstaller:profileinstaller:1.4.0",
+        "androidx.resourceinspection:resourceinspection-annotation:1.0.1",
+        "androidx.room:room-common-jvm:2.8.5",
+        "androidx.room:room-common:2.8.5",
+        "androidx.room:room-ktx:2.8.5",
+        "androidx.room:room-runtime-android:2.8.5",
+        "androidx.room:room-runtime:2.8.5",
+        "androidx.savedstate:savedstate-android:1.5.0",
+        "androidx.savedstate:savedstate-compose-android:1.5.0",
+        "androidx.savedstate:savedstate-compose:1.5.0",
+        "androidx.savedstate:savedstate-ktx:1.5.0",
+        "androidx.savedstate:savedstate:1.5.0",
+        "androidx.sqlite:sqlite-android:2.6.2",
+        "androidx.sqlite:sqlite-framework-android:2.6.2",
+        "androidx.sqlite:sqlite-framework:2.6.2",
+        "androidx.sqlite:sqlite:2.6.2",
+        "androidx.startup:startup-runtime:1.2.0",
+        "androidx.tracing:tracing:1.2.0",
+        "androidx.vectordrawable:vectordrawable-animated:1.1.0",
+        "androidx.vectordrawable:vectordrawable:1.1.0",
+        "androidx.versionedparcelable:versionedparcelable:1.1.1",
+        "androidx.viewpager:viewpager:1.0.0",
+        "androidx.window:window-core-android:1.5.0",
+        "androidx.window:window-core:1.5.0",
+        "androidx.window:window:1.5.0",
+        "com.airbnb.android:lottie-compose:6.7.1",
+        "com.airbnb.android:lottie:6.7.1",
+        "com.google.guava:failureaccess:1.0.2",
+        "com.google.guava:guava:33.3.1-android",
+        "com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava",
+        "com.nimbusds:nimbus-jose-jwt:10.10",
+        "com.squareup.okhttp3:okhttp-android:5.5.0",
+        "com.squareup.okhttp3:okhttp:5.5.0",
+        "com.squareup.okio:okio-jvm:3.18.1",
+        "com.squareup.okio:okio:3.18.1",
+        "org.jetbrains.kotlin:kotlin-stdlib:2.4.21",
+        "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.2",
+        "org.jetbrains.kotlinx:kotlinx-coroutines-bom:1.10.2",
+        "org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.10.2",
+        "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.2",
+        "org.jetbrains.kotlinx:kotlinx-serialization-bom:1.11.0",
+        "org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.11.0",
+        "org.jetbrains.kotlinx:kotlinx-serialization-core:1.11.0",
+        "org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.11.0",
+        "org.jetbrains.kotlinx:kotlinx-serialization-json:1.11.0",
+        "org.jetbrains:annotations:23.0.0",
+        "org.jspecify:jspecify:1.0.0"
+      ]
+    },
+    {
+      "id": "9877ca38e5f70ae630ea92f9b2bb7ed368ace8cb4b5a2516b10b6a6ecbf85191",
+      "title": "appcompat 1.6.1 – Quellkommentar-Auszüge",
+      "path": "texts/9877ca38e5f70ae630ea92f9b2bb7ed368ace8cb4b5a2516b10b6a6ecbf85191.txt",
+      "sha256": "9877ca38e5f70ae630ea92f9b2bb7ed368ace8cb4b5a2516b10b6a6ecbf85191",
+      "sizeBytes": 17122,
+      "kind": "attribution",
+      "components": [
+        "androidx.appcompat:appcompat:1.6.1"
+      ]
+    },
+    {
+      "id": "c5addf4d56e6157a8d93189a4ba50a24bb20f201b9e42b1a86b55260323b4c5e",
+      "title": "appcompat-resources 1.6.1 – Quellkommentar-Auszüge",
+      "path": "texts/c5addf4d56e6157a8d93189a4ba50a24bb20f201b9e42b1a86b55260323b4c5e.txt",
+      "sha256": "c5addf4d56e6157a8d93189a4ba50a24bb20f201b9e42b1a86b55260323b4c5e",
+      "sizeBytes": 4820,
+      "kind": "attribution",
+      "components": [
+        "androidx.appcompat:appcompat-resources:1.6.1"
+      ]
+    },
+    {
+      "id": "5fafb30afe81404f8003809d874e1078bca1964b091b1c4eea9803c1d91ee8bb",
+      "title": "autofill 1.0.0 – Quellkommentar-Auszüge",
+      "path": "texts/5fafb30afe81404f8003809d874e1078bca1964b091b1c4eea9803c1d91ee8bb.txt",
+      "sha256": "5fafb30afe81404f8003809d874e1078bca1964b091b1c4eea9803c1d91ee8bb",
+      "sizeBytes": 878,
+      "kind": "attribution",
+      "components": [
+        "androidx.autofill:autofill:1.0.0"
+      ]
+    },
+    {
+      "id": "e62a242304a0b3a78227d9ebac5625cf611cb68136a7181ed2109b274dd47d82",
+      "title": "Bionic CRT – Lizenzkommentar (vorsorglich)",
+      "path": "texts/e62a242304a0b3a78227d9ebac5625cf611cb68136a7181ed2109b274dd47d82.txt",
+      "sha256": "e62a242304a0b3a78227d9ebac5625cf611cb68136a7181ed2109b274dd47d82",
+      "sizeBytes": 1398,
+      "kind": "attribution",
+      "components": [
+        "androidx.datastore:datastore-core-android:1.2.1",
+        "androidx.graphics:graphics-path:1.0.1"
+      ]
+    },
+    {
+      "id": "c38a528132da70b6d553712548dee868d7a29a2874acf28b710f2e280b39efea",
+      "title": "collection 1.5.0 – Quellkommentar-Auszüge",
+      "path": "texts/c38a528132da70b6d553712548dee868d7a29a2874acf28b710f2e280b39efea.txt",
+      "sha256": "c38a528132da70b6d553712548dee868d7a29a2874acf28b710f2e280b39efea",
+      "sizeBytes": 6397,
+      "kind": "attribution",
+      "components": [
+        "androidx.collection:collection:1.5.0"
+      ]
+    },
+    {
+      "id": "4ae7b81533bd07f854abf8298b340dd3777b3c1431f05854066b4f5413155a20",
+      "title": "collection-jvm 1.5.0 – Quellkommentar-Auszüge",
+      "path": "texts/4ae7b81533bd07f854abf8298b340dd3777b3c1431f05854066b4f5413155a20.txt",
+      "sha256": "4ae7b81533bd07f854abf8298b340dd3777b3c1431f05854066b4f5413155a20",
+      "sizeBytes": 7630,
+      "kind": "attribution",
+      "components": [
+        "androidx.collection:collection-jvm:1.5.0"
+      ]
+    },
+    {
+      "id": "1a8f1058753f1ba890de984e48f0242a3a5c29a6a8f2ed9fd813f36985387e8d",
+      "title": "compiler-rt – Lizenz (NDK r25c / Kotlin LLVM; konservativ)",
+      "path": "texts/1a8f1058753f1ba890de984e48f0242a3a5c29a6a8f2ed9fd813f36985387e8d.txt",
+      "sha256": "1a8f1058753f1ba890de984e48f0242a3a5c29a6a8f2ed9fd813f36985387e8d",
+      "sizeBytes": 16708,
+      "kind": "license",
+      "components": [
+        "androidx.datastore:datastore-core-android:1.2.1",
+        "androidx.graphics:graphics-path:1.0.1"
+      ]
+    },
+    {
+      "id": "e1da2e8ae4f43e0ec742ba2f1fe2123546b2e240c5d64ac46baf850882a3675b",
+      "title": "concurrent-futures 1.2.0 – Quellkommentar-Auszüge",
+      "path": "texts/e1da2e8ae4f43e0ec742ba2f1fe2123546b2e240c5d64ac46baf850882a3675b.txt",
+      "sha256": "e1da2e8ae4f43e0ec742ba2f1fe2123546b2e240c5d64ac46baf850882a3675b",
+      "sizeBytes": 1069,
+      "kind": "attribution",
+      "components": [
+        "androidx.concurrent:concurrent-futures:1.2.0"
+      ]
+    },
+    {
+      "id": "0c05b809f846c6f1f3e9cf729ae1f46d1d9f68f66b4ca98135e38e962d0adac5",
+      "title": "core 1.18.0 – Quellkommentar-Auszüge",
+      "path": "texts/0c05b809f846c6f1f3e9cf729ae1f46d1d9f68f66b4ca98135e38e962d0adac5.txt",
+      "sha256": "0c05b809f846c6f1f3e9cf729ae1f46d1d9f68f66b4ca98135e38e962d0adac5",
+      "sizeBytes": 32809,
+      "kind": "attribution",
+      "components": [
+        "androidx.core:core:1.18.0"
+      ]
+    },
+    {
+      "id": "c004a33c37072ba8d80986d1b79f2387b6f2c1bfe6d422e35a9826693f7ebd49",
+      "title": "core-common 2.2.0 – Quellkommentar-Auszüge",
+      "path": "texts/c004a33c37072ba8d80986d1b79f2387b6f2c1bfe6d422e35a9826693f7ebd49.txt",
+      "sha256": "c004a33c37072ba8d80986d1b79f2387b6f2c1bfe6d422e35a9826693f7ebd49",
+      "sizeBytes": 987,
+      "kind": "attribution",
+      "components": [
+        "androidx.arch.core:core-common:2.2.0"
+      ]
+    },
+    {
+      "id": "df07acca9fe9eec302b28ca5a4d1554510aacdee999cc00aaf376b6a2d5427b9",
+      "title": "core-ktx 1.18.0 – Quellkommentar-Auszüge",
+      "path": "texts/df07acca9fe9eec302b28ca5a4d1554510aacdee999cc00aaf376b6a2d5427b9.txt",
+      "sha256": "df07acca9fe9eec302b28ca5a4d1554510aacdee999cc00aaf376b6a2d5427b9",
+      "sizeBytes": 7429,
+      "kind": "attribution",
+      "components": [
+        "androidx.core:core-ktx:1.18.0"
+      ]
+    },
+    {
+      "id": "2e8475a37f26ea60c03b96595dbe60e294309cb27d8d1b61aafabee179cd3788",
+      "title": "core-runtime 2.2.0 – Quellkommentar-Auszüge",
+      "path": "texts/2e8475a37f26ea60c03b96595dbe60e294309cb27d8d1b61aafabee179cd3788.txt",
+      "sha256": "2e8475a37f26ea60c03b96595dbe60e294309cb27d8d1b61aafabee179cd3788",
+      "sizeBytes": 1001,
+      "kind": "attribution",
+      "components": [
+        "androidx.arch.core:core-runtime:2.2.0"
+      ]
+    },
+    {
+      "id": "6ca3fb8f1b9c597dc28a77195c41cd4b8a6199a06ff56510851f526a7fbb0919",
+      "title": "core-viewtree 1.0.0 – Quellkommentar-Auszüge",
+      "path": "texts/6ca3fb8f1b9c597dc28a77195c41cd4b8a6199a06ff56510851f526a7fbb0919.txt",
+      "sha256": "6ca3fb8f1b9c597dc28a77195c41cd4b8a6199a06ff56510851f526a7fbb0919",
+      "sizeBytes": 877,
+      "kind": "attribution",
+      "components": [
+        "androidx.core:core-viewtree:1.0.0"
+      ]
+    },
+    {
+      "id": "a04caf07b0c00ed7e6288c78d06efc3c1db9ba6784cb1343dcd9efc90e197f84",
+      "title": "cursoradapter 1.0.0 – Quellkommentar-Auszüge",
+      "path": "texts/a04caf07b0c00ed7e6288c78d06efc3c1db9ba6784cb1343dcd9efc90e197f84.txt",
+      "sha256": "a04caf07b0c00ed7e6288c78d06efc3c1db9ba6784cb1343dcd9efc90e197f84",
+      "sizeBytes": 1063,
+      "kind": "attribution",
+      "components": [
+        "androidx.cursoradapter:cursoradapter:1.0.0"
+      ]
+    },
+    {
+      "id": "be4278be96a75fc30026e96b4dec5d00cfd68815f70d84670409dca7631a277c",
+      "title": "customview 1.0.0 – Quellkommentar-Auszüge",
+      "path": "texts/be4278be96a75fc30026e96b4dec5d00cfd68815f70d84670409dca7631a277c.txt",
+      "sha256": "be4278be96a75fc30026e96b4dec5d00cfd68815f70d84670409dca7631a277c",
+      "sizeBytes": 1038,
+      "kind": "attribution",
+      "components": [
+        "androidx.customview:customview:1.0.0"
+      ]
+    },
+    {
+      "id": "d6bf5a09a9331407ead98d1ff525a5b3493a33b8d181bf2d1870d203996eaa84",
+      "title": "customview-poolingcontainer 1.0.0 – Quellkommentar-Auszüge",
+      "path": "texts/d6bf5a09a9331407ead98d1ff525a5b3493a33b8d181bf2d1870d203996eaa84.txt",
+      "sha256": "d6bf5a09a9331407ead98d1ff525a5b3493a33b8d181bf2d1870d203996eaa84",
+      "sizeBytes": 919,
+      "kind": "attribution",
+      "components": [
+        "androidx.customview:customview-poolingcontainer:1.0.0"
+      ]
+    },
+    {
+      "id": "ee5afb61b587f3c518837da5824fc95d98b083ae0adc91c1c12e5ff2f51102a5",
+      "title": "datastore 1.2.1 – Quellkommentar-Auszüge",
+      "path": "texts/ee5afb61b587f3c518837da5824fc95d98b083ae0adc91c1c12e5ff2f51102a5.txt",
+      "sha256": "ee5afb61b587f3c518837da5824fc95d98b083ae0adc91c1c12e5ff2f51102a5",
+      "sizeBytes": 899,
+      "kind": "attribution",
+      "components": [
+        "androidx.datastore:datastore:1.2.1"
+      ]
+    },
+    {
+      "id": "f042f209826384d9c33beb567d95c6a11a82b1759d3b05bea4c2da060036adf5",
+      "title": "datastore-android 1.2.1 – Quellkommentar-Auszüge",
+      "path": "texts/f042f209826384d9c33beb567d95c6a11a82b1759d3b05bea4c2da060036adf5.txt",
+      "sha256": "f042f209826384d9c33beb567d95c6a11a82b1759d3b05bea4c2da060036adf5",
+      "sizeBytes": 2396,
+      "kind": "attribution",
+      "components": [
+        "androidx.datastore:datastore-android:1.2.1"
+      ]
+    },
+    {
+      "id": "9ed592fbbede807461eac548a2f41b19ab7931130286d6ebd8414da533a1f76f",
+      "title": "datastore-core 1.2.1 – Quellkommentar-Auszüge",
+      "path": "texts/9ed592fbbede807461eac548a2f41b19ab7931130286d6ebd8414da533a1f76f.txt",
+      "sha256": "9ed592fbbede807461eac548a2f41b19ab7931130286d6ebd8414da533a1f76f",
+      "sizeBytes": 5074,
+      "kind": "attribution",
+      "components": [
+        "androidx.datastore:datastore-core:1.2.1"
+      ]
+    },
+    {
+      "id": "7c9ab6ca7b7ec28cdea9b3c9633cbb27cbc21afbcab9f13e2e4da11963a89c07",
+      "title": "datastore-core-android 1.2.1 – Quellkommentar-Auszüge",
+      "path": "texts/7c9ab6ca7b7ec28cdea9b3c9633cbb27cbc21afbcab9f13e2e4da11963a89c07.txt",
+      "sha256": "7c9ab6ca7b7ec28cdea9b3c9633cbb27cbc21afbcab9f13e2e4da11963a89c07",
+      "sizeBytes": 5932,
+      "kind": "attribution",
+      "components": [
+        "androidx.datastore:datastore-core-android:1.2.1"
+      ]
+    },
+    {
+      "id": "4d5b85c417f35595abb63a9c145684b771a05972965fa2b9830d2c9d5ddf387d",
+      "title": "datastore-core-okio 1.2.1 – Quellkommentar-Auszüge",
+      "path": "texts/4d5b85c417f35595abb63a9c145684b771a05972965fa2b9830d2c9d5ddf387d.txt",
+      "sha256": "4d5b85c417f35595abb63a9c145684b771a05972965fa2b9830d2c9d5ddf387d",
+      "sizeBytes": 1076,
+      "kind": "attribution",
+      "components": [
+        "androidx.datastore:datastore-core-okio:1.2.1"
+      ]
+    },
+    {
+      "id": "5a3df7aedc6003ef67f2b4fad06f8aed5985f0405af07c89fb50b84d463e1146",
+      "title": "datastore-core-okio-jvm 1.2.1 – Quellkommentar-Auszüge",
+      "path": "texts/5a3df7aedc6003ef67f2b4fad06f8aed5985f0405af07c89fb50b84d463e1146.txt",
+      "sha256": "5a3df7aedc6003ef67f2b4fad06f8aed5985f0405af07c89fb50b84d463e1146",
+      "sizeBytes": 1074,
+      "kind": "attribution",
+      "components": [
+        "androidx.datastore:datastore-core-okio-jvm:1.2.1"
+      ]
+    },
+    {
+      "id": "567c296d98f052ff8ea714a482042143f39a479b12248adcf7202cf0cd6d8652",
+      "title": "datastore-preferences 1.2.1 – Quellkommentar-Auszüge",
+      "path": "texts/567c296d98f052ff8ea714a482042143f39a479b12248adcf7202cf0cd6d8652.txt",
+      "sha256": "567c296d98f052ff8ea714a482042143f39a479b12248adcf7202cf0cd6d8652",
+      "sizeBytes": 934,
+      "kind": "attribution",
+      "components": [
+        "androidx.datastore:datastore-preferences:1.2.1"
+      ]
+    },
+    {
+      "id": "83246e88b11b69abbb545b4b188062f3eba7995b719525e5fd6fd31dbad73f8b",
+      "title": "datastore-preferences-android 1.2.1 – Quellkommentar-Auszüge",
+      "path": "texts/83246e88b11b69abbb545b4b188062f3eba7995b719525e5fd6fd31dbad73f8b.txt",
+      "sha256": "83246e88b11b69abbb545b4b188062f3eba7995b719525e5fd6fd31dbad73f8b",
+      "sizeBytes": 3109,
+      "kind": "attribution",
+      "components": [
+        "androidx.datastore:datastore-preferences-android:1.2.1"
+      ]
+    },
+    {
+      "id": "1adc83cb0f84d4f9f268fecb90e02d274811b1958898087b9f4b306d8210b21e",
+      "title": "datastore-preferences-core 1.2.1 – Quellkommentar-Auszüge",
+      "path": "texts/1adc83cb0f84d4f9f268fecb90e02d274811b1958898087b9f4b306d8210b21e.txt",
+      "sha256": "1adc83cb0f84d4f9f268fecb90e02d274811b1958898087b9f4b306d8210b21e",
+      "sizeBytes": 2143,
+      "kind": "attribution",
+      "components": [
+        "androidx.datastore:datastore-preferences-core:1.2.1"
+      ]
+    },
+    {
+      "id": "90fcbf4c601d87dc47dfb639311c0aeac8e35ba792117e783533bd4931c715fd",
+      "title": "datastore-preferences-core-android 1.2.1 – Quellkommentar-Auszüge",
+      "path": "texts/90fcbf4c601d87dc47dfb639311c0aeac8e35ba792117e783533bd4931c715fd.txt",
+      "sha256": "90fcbf4c601d87dc47dfb639311c0aeac8e35ba792117e783533bd4931c715fd",
+      "sizeBytes": 2912,
+      "kind": "attribution",
+      "components": [
+        "androidx.datastore:datastore-preferences-core-android:1.2.1"
+      ]
+    },
+    {
+      "id": "7bf1db533b5e0f997c7b1282235134251ebf977821f388c070544033c78656c9",
+      "title": "datastore-preferences-proto 1.2.1 – Quellkommentar-Auszüge",
+      "path": "texts/7bf1db533b5e0f997c7b1282235134251ebf977821f388c070544033c78656c9.txt",
+      "sha256": "7bf1db533b5e0f997c7b1282235134251ebf977821f388c070544033c78656c9",
+      "sizeBytes": 916,
+      "kind": "attribution",
+      "components": [
+        "androidx.datastore:datastore-preferences-proto:1.2.1"
+      ]
+    },
+    {
+      "id": "f3ccfc1a96d35fe7979694dc69383a8d37db8aa80c58d9605a13a70fe08a3343",
+      "title": "drawerlayout 1.0.0 – Quellkommentar-Auszüge",
+      "path": "texts/f3ccfc1a96d35fe7979694dc69383a8d37db8aa80c58d9605a13a70fe08a3343.txt",
+      "sha256": "f3ccfc1a96d35fe7979694dc69383a8d37db8aa80c58d9605a13a70fe08a3343",
+      "sizeBytes": 896,
+      "kind": "attribution",
+      "components": [
+        "androidx.drawerlayout:drawerlayout:1.0.0"
+      ]
+    },
+    {
+      "id": "8bb9199e8927deb2581d34d1c05e529bf66598f571dbddf413cc7500867cfdb6",
+      "title": "emoji2 1.4.0 – Quellkommentar-Auszüge",
+      "path": "texts/8bb9199e8927deb2581d34d1c05e529bf66598f571dbddf413cc7500867cfdb6.txt",
+      "sha256": "8bb9199e8927deb2581d34d1c05e529bf66598f571dbddf413cc7500867cfdb6",
+      "sizeBytes": 2227,
+      "kind": "attribution",
+      "components": [
+        "androidx.emoji2:emoji2:1.4.0"
+      ]
+    },
+    {
+      "id": "8e3cc2149e339632a3fa8c4186482a711b8938970c5c1c6cc7ee060a3b14d38c",
+      "title": "emoji2-views-helper 1.4.0 – Quellkommentar-Auszüge",
+      "path": "texts/8e3cc2149e339632a3fa8c4186482a711b8938970c5c1c6cc7ee060a3b14d38c.txt",
+      "sha256": "8e3cc2149e339632a3fa8c4186482a711b8938970c5c1c6cc7ee060a3b14d38c",
+      "sizeBytes": 1320,
+      "kind": "attribution",
+      "components": [
+        "androidx.emoji2:emoji2-views-helper:1.4.0"
+      ]
+    },
+    {
+      "id": "49a7a189f2e4446cb514f26958db39ddeaff8207e08fe4e92d5cbb9500181dae",
+      "title": "exifinterface 1.3.6 – Quellkommentar-Auszüge",
+      "path": "texts/49a7a189f2e4446cb514f26958db39ddeaff8207e08fe4e92d5cbb9500181dae.txt",
+      "sha256": "49a7a189f2e4446cb514f26958db39ddeaff8207e08fe4e92d5cbb9500181dae",
+      "sizeBytes": 3499,
+      "kind": "attribution",
+      "components": [
+        "androidx.exifinterface:exifinterface:1.3.6"
+      ]
+    },
+    {
+      "id": "c08cce0c1c47f1fcebdd97a214255bf42ae47aede28de79b9392ed4602a29233",
+      "title": "failureaccess 1.0.2 – Quellkommentar-Auszüge",
+      "path": "texts/c08cce0c1c47f1fcebdd97a214255bf42ae47aede28de79b9392ed4602a29233.txt",
+      "sha256": "c08cce0c1c47f1fcebdd97a214255bf42ae47aede28de79b9392ed4602a29233",
+      "sizeBytes": 965,
+      "kind": "attribution",
+      "components": [
+        "com.google.guava:failureaccess:1.0.2"
+      ]
+    },
+    {
+      "id": "185672005ea3005bf9292d3ea7ae875252a7a6702f965025a85f77998733748f",
+      "title": "foundation 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/185672005ea3005bf9292d3ea7ae875252a7a6702f965025a85f77998733748f.txt",
+      "sha256": "185672005ea3005bf9292d3ea7ae875252a7a6702f965025a85f77998733748f",
+      "sizeBytes": 39425,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.foundation:foundation:1.12.1"
+      ]
+    },
+    {
+      "id": "1981197a0d2d8de877725b6b4f52d123c9238995a02a2c7ed98cceb73137e760",
+      "title": "foundation-android 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/1981197a0d2d8de877725b6b4f52d123c9238995a02a2c7ed98cceb73137e760.txt",
+      "sha256": "1981197a0d2d8de877725b6b4f52d123c9238995a02a2c7ed98cceb73137e760",
+      "sizeBytes": 41882,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.foundation:foundation-android:1.12.1"
+      ]
+    },
+    {
+      "id": "b252bcc9af5d6ab0fba809fdfdafc5a0a9805e950a97f3a5cd34dfe9ba308aec",
+      "title": "foundation-layout 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/b252bcc9af5d6ab0fba809fdfdafc5a0a9805e950a97f3a5cd34dfe9ba308aec.txt",
+      "sha256": "b252bcc9af5d6ab0fba809fdfdafc5a0a9805e950a97f3a5cd34dfe9ba308aec",
+      "sizeBytes": 8456,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.foundation:foundation-layout:1.12.1"
+      ]
+    },
+    {
+      "id": "c1a084e0795058c9108dc477158a072a93cc5d168e873d7e9761274e4c61c6e7",
+      "title": "foundation-layout-android 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/c1a084e0795058c9108dc477158a072a93cc5d168e873d7e9761274e4c61c6e7.txt",
+      "sha256": "c1a084e0795058c9108dc477158a072a93cc5d168e873d7e9761274e4c61c6e7",
+      "sizeBytes": 8448,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.foundation:foundation-layout-android:1.12.1"
+      ]
+    },
+    {
+      "id": "9c8345d652b316072957574839e6de2434b87ebfc0bebd4e530679ea4071b9f7",
+      "title": "fragment 1.3.6 – Quellkommentar-Auszüge",
+      "path": "texts/9c8345d652b316072957574839e6de2434b87ebfc0bebd4e530679ea4071b9f7.txt",
+      "sha256": "9c8345d652b316072957574839e6de2434b87ebfc0bebd4e530679ea4071b9f7",
+      "sizeBytes": 4037,
+      "kind": "attribution",
+      "components": [
+        "androidx.fragment:fragment:1.3.6"
+      ]
+    },
+    {
+      "id": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+      "title": "Gradle Wrapper 9.6.0 – Apache License 2.0",
+      "path": "texts/0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594.txt",
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+      "sizeBytes": 10174,
+      "kind": "license",
+      "components": [
+        "Gradle Wrapper 9.6.0"
+      ]
+    },
+    {
+      "id": "b00e4fa2471e6fdca56048170be54fea9f1986cb2d4daf5a9a423b34d38eeb37",
+      "title": "graphics-path 1.0.1 – Quellkommentar-Auszüge",
+      "path": "texts/b00e4fa2471e6fdca56048170be54fea9f1986cb2d4daf5a9a423b34d38eeb37.txt",
+      "sha256": "b00e4fa2471e6fdca56048170be54fea9f1986cb2d4daf5a9a423b34d38eeb37",
+      "sizeBytes": 1656,
+      "kind": "attribution",
+      "components": [
+        "androidx.graphics:graphics-path:1.0.1"
+      ]
+    },
+    {
+      "id": "1314296d7403d04aec946a9cee2968ce79d44685b0cae9c7fd2875e9595847a6",
+      "title": "guava 33.3.1-android – Quellkommentar-Auszüge",
+      "path": "texts/1314296d7403d04aec946a9cee2968ce79d44685b0cae9c7fd2875e9595847a6.txt",
+      "sha256": "1314296d7403d04aec946a9cee2968ce79d44685b0cae9c7fd2875e9595847a6",
+      "sizeBytes": 54854,
+      "kind": "attribution",
+      "components": [
+        "com.google.guava:guava:33.3.1-android"
+      ]
+    },
+    {
+      "id": "108b85d707ffa3473b9a1369d507c36de7f245674e2518afd11bbdb898942627",
+      "title": "interpolator 1.0.0 – Quellkommentar-Auszüge",
+      "path": "texts/108b85d707ffa3473b9a1369d507c36de7f245674e2518afd11bbdb898942627.txt",
+      "sha256": "108b85d707ffa3473b9a1369d507c36de7f245674e2518afd11bbdb898942627",
+      "sizeBytes": 1126,
+      "kind": "attribution",
+      "components": [
+        "androidx.interpolator:interpolator:1.0.0"
+      ]
+    },
+    {
+      "id": "fd44c46d1cf382463851f5d471d80501990fa22424c508c7834e669e301e0e24",
+      "title": "jspecify 1.0.0 – Quellkommentar-Auszüge",
+      "path": "texts/fd44c46d1cf382463851f5d471d80501990fa22424c508c7834e669e301e0e24.txt",
+      "sha256": "fd44c46d1cf382463851f5d471d80501990fa22424c508c7834e669e301e0e24",
+      "sizeBytes": 1672,
+      "kind": "attribution",
+      "components": [
+        "org.jspecify:jspecify:1.0.0"
+      ]
+    },
+    {
+      "id": "8d8291caf1cee26d23acf3eb67c9f9a2d58f1c681b16a4fbe8cbfb9e3c0b5a9b",
+      "title": "Kotlin / Boost – Boost Software License 1.0",
+      "path": "texts/8d8291caf1cee26d23acf3eb67c9f9a2d58f1c681b16a4fbe8cbfb9e3c0b5a9b.txt",
+      "sha256": "8d8291caf1cee26d23acf3eb67c9f9a2d58f1c681b16a4fbe8cbfb9e3c0b5a9b",
+      "sizeBytes": 1337,
+      "kind": "license",
+      "components": [
+        "org.jetbrains.kotlin:kotlin-stdlib:2.4.21"
+      ]
+    },
+    {
+      "id": "d1bc53b493a3ab387b42717ed5c4b1976a5048996f81154278100bff86d39331",
+      "title": "Kotlin / ThreeTenBP – BSD-3-Clause",
+      "path": "texts/d1bc53b493a3ab387b42717ed5c4b1976a5048996f81154278100bff86d39331.txt",
+      "sha256": "d1bc53b493a3ab387b42717ed5c4b1976a5048996f81154278100bff86d39331",
+      "sizeBytes": 1520,
+      "kind": "license",
+      "components": [
+        "org.jetbrains.kotlin:kotlin-stdlib:2.4.21"
+      ]
+    },
+    {
+      "id": "b1febe6399dffb10d19d35e7663ab16300c93cb0476a94115df1cc0097a8ffd8",
+      "title": "Kotlin Coroutines – Apache License 2.0",
+      "path": "texts/b1febe6399dffb10d19d35e7663ab16300c93cb0476a94115df1cc0097a8ffd8.txt",
+      "sha256": "b1febe6399dffb10d19d35e7663ab16300c93cb0476a94115df1cc0097a8ffd8",
+      "sizeBytes": 11398,
+      "kind": "license",
+      "components": [
+        "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.2",
+        "org.jetbrains.kotlinx:kotlinx-coroutines-bom:1.10.2",
+        "org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.10.2",
+        "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.2"
+      ]
+    },
+    {
+      "id": "7c8091dc26e6f5587464e82c3241dfb1281ff37f45f9afde7393a785d4e0fbe9",
+      "title": "Kotlin stdlib – Quellkommentar-Auszüge",
+      "path": "texts/7c8091dc26e6f5587464e82c3241dfb1281ff37f45f9afde7393a785d4e0fbe9.txt",
+      "sha256": "7c8091dc26e6f5587464e82c3241dfb1281ff37f45f9afde7393a785d4e0fbe9",
+      "sizeBytes": 2199,
+      "kind": "attribution",
+      "components": [
+        "org.jetbrains.kotlin:kotlin-stdlib:2.4.21"
+      ]
+    },
+    {
+      "id": "a80bbfd1c8bc0082c822e70811d98e6a9f9a61bd2fcc8bba774b1cfa352ed96c",
+      "title": "kotlin-stdlib 2.4.21 – Quellkommentar-Auszüge",
+      "path": "texts/a80bbfd1c8bc0082c822e70811d98e6a9f9a61bd2fcc8bba774b1cfa352ed96c.txt",
+      "sha256": "a80bbfd1c8bc0082c822e70811d98e6a9f9a61bd2fcc8bba774b1cfa352ed96c",
+      "sizeBytes": 23039,
+      "kind": "attribution",
+      "components": [
+        "org.jetbrains.kotlin:kotlin-stdlib:2.4.21"
+      ]
+    },
+    {
+      "id": "440d72f49809a8bfe5ff378b73808f76f4b40c5c43e1278986bae3ca81427e82",
+      "title": "kotlinx-serialization-core-jvm 1.11.0 – Quellkommentar-Auszüge",
+      "path": "texts/440d72f49809a8bfe5ff378b73808f76f4b40c5c43e1278986bae3ca81427e82.txt",
+      "sha256": "440d72f49809a8bfe5ff378b73808f76f4b40c5c43e1278986bae3ca81427e82",
+      "sizeBytes": 4342,
+      "kind": "attribution",
+      "components": [
+        "org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.11.0"
+      ]
+    },
+    {
+      "id": "7d033ce2d5b53f8971dfa346e1c7ae7f796f97378afa8631466a62627a1f57d5",
+      "title": "kotlinx-serialization-json-jvm 1.11.0 – Quellkommentar-Auszüge",
+      "path": "texts/7d033ce2d5b53f8971dfa346e1c7ae7f796f97378afa8631466a62627a1f57d5.txt",
+      "sha256": "7d033ce2d5b53f8971dfa346e1c7ae7f796f97378afa8631466a62627a1f57d5",
+      "sizeBytes": 3532,
+      "kind": "attribution",
+      "components": [
+        "org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.11.0"
+      ]
+    },
+    {
+      "id": "20c25563258c0e4c7dde6aa0c55ab74dfaf5f2bae4fbc3372ec92127a3e7f2ff",
+      "title": "libc++ – Credits (NDK r20; konservativ)",
+      "path": "texts/20c25563258c0e4c7dde6aa0c55ab74dfaf5f2bae4fbc3372ec92127a3e7f2ff.txt",
+      "sha256": "20c25563258c0e4c7dde6aa0c55ab74dfaf5f2bae4fbc3372ec92127a3e7f2ff",
+      "sizeBytes": 3173,
+      "kind": "attribution",
+      "components": [
+        "androidx.datastore:datastore-core-android:1.2.1"
+      ]
+    },
+    {
+      "id": "e6686fd7b71e46115fff0c108051b62a5d205ff93f2633eec6574c6be5c0284c",
+      "title": "libc++ – Credits (NDK r25c / Kotlin LLVM; konservativ)",
+      "path": "texts/e6686fd7b71e46115fff0c108051b62a5d205ff93f2633eec6574c6be5c0284c.txt",
+      "sha256": "e6686fd7b71e46115fff0c108051b62a5d205ff93f2633eec6574c6be5c0284c",
+      "sizeBytes": 3953,
+      "kind": "attribution",
+      "components": [
+        "androidx.graphics:graphics-path:1.0.1"
+      ]
+    },
+    {
+      "id": "c1938c0e9e90639d1e8f5a7f6bebaab83a3642e0ee44295a4c69934686d0bda8",
+      "title": "libc++ – Lizenz (NDK r20; konservativ)",
+      "path": "texts/c1938c0e9e90639d1e8f5a7f6bebaab83a3642e0ee44295a4c69934686d0bda8.txt",
+      "sha256": "c1938c0e9e90639d1e8f5a7f6bebaab83a3642e0ee44295a4c69934686d0bda8",
+      "sizeBytes": 3493,
+      "kind": "license",
+      "components": [
+        "androidx.datastore:datastore-core-android:1.2.1"
+      ]
+    },
+    {
+      "id": "539dd7aed86e8a4f12cbdd0e6c50c189c7d74847e4fecc64ce2c6ee3a01da38b",
+      "title": "libc++ – Lizenz (NDK r25c / Kotlin LLVM; konservativ)",
+      "path": "texts/539dd7aed86e8a4f12cbdd0e6c50c189c7d74847e4fecc64ce2c6ee3a01da38b.txt",
+      "sha256": "539dd7aed86e8a4f12cbdd0e6c50c189c7d74847e4fecc64ce2c6ee3a01da38b",
+      "sizeBytes": 16703,
+      "kind": "license",
+      "components": [
+        "androidx.datastore:datastore-core-android:1.2.1",
+        "androidx.graphics:graphics-path:1.0.1"
+      ]
+    },
+    {
+      "id": "8b756f8a0b731b67d18714ee3d11b2e182e5c8dac49ddad542e6237ce513d7c6",
+      "title": "libc++abi – Lizenz (NDK r20; konservativ)",
+      "path": "texts/8b756f8a0b731b67d18714ee3d11b2e182e5c8dac49ddad542e6237ce513d7c6.txt",
+      "sha256": "8b756f8a0b731b67d18714ee3d11b2e182e5c8dac49ddad542e6237ce513d7c6",
+      "sizeBytes": 3499,
+      "kind": "license",
+      "components": [
+        "androidx.datastore:datastore-core-android:1.2.1"
+      ]
+    },
+    {
+      "id": "e2b35be49f7284a45b7baca8fc7b3ab7440e7902392b2528a457816b5bb2a15c",
+      "title": "libc++abi – Lizenz (NDK r25c / Kotlin LLVM; konservativ)",
+      "path": "texts/e2b35be49f7284a45b7baca8fc7b3ab7440e7902392b2528a457816b5bb2a15c.txt",
+      "sha256": "e2b35be49f7284a45b7baca8fc7b3ab7440e7902392b2528a457816b5bb2a15c",
+      "sizeBytes": 16706,
+      "kind": "license",
+      "components": [
+        "androidx.datastore:datastore-core-android:1.2.1",
+        "androidx.graphics:graphics-path:1.0.1"
+      ]
+    },
+    {
+      "id": "afaad47c607e94e2ac2505163cc04fe842b87f68d3bb3fede41f1fa0b8bcbf55",
+      "title": "lifecycle-common 2.11.0 – Quellkommentar-Auszüge",
+      "path": "texts/afaad47c607e94e2ac2505163cc04fe842b87f68d3bb3fede41f1fa0b8bcbf55.txt",
+      "sha256": "afaad47c607e94e2ac2505163cc04fe842b87f68d3bb3fede41f1fa0b8bcbf55",
+      "sizeBytes": 3322,
+      "kind": "attribution",
+      "components": [
+        "androidx.lifecycle:lifecycle-common:2.11.0"
+      ]
+    },
+    {
+      "id": "5685298935f14a599811b7fb1609c2df19ad266f4f6492d66ca87b6914f818da",
+      "title": "lifecycle-common-jvm 2.11.0 – Quellkommentar-Auszüge",
+      "path": "texts/5685298935f14a599811b7fb1609c2df19ad266f4f6492d66ca87b6914f818da.txt",
+      "sha256": "5685298935f14a599811b7fb1609c2df19ad266f4f6492d66ca87b6914f818da",
+      "sizeBytes": 3938,
+      "kind": "attribution",
+      "components": [
+        "androidx.lifecycle:lifecycle-common-jvm:2.11.0"
+      ]
+    },
+    {
+      "id": "d3a1d3126d97ab1a55bf227ebfe1fd1a3f06f2196cc80033356c394a599641d5",
+      "title": "lifecycle-livedata 2.11.0 – Quellkommentar-Auszüge",
+      "path": "texts/d3a1d3126d97ab1a55bf227ebfe1fd1a3f06f2196cc80033356c394a599641d5.txt",
+      "sha256": "d3a1d3126d97ab1a55bf227ebfe1fd1a3f06f2196cc80033356c394a599641d5",
+      "sizeBytes": 1701,
+      "kind": "attribution",
+      "components": [
+        "androidx.lifecycle:lifecycle-livedata:2.11.0"
+      ]
+    },
+    {
+      "id": "cadb1fd42865c72064c16c85a4d640b8c637b64cd40af4f0b4a1298d1895c57e",
+      "title": "lifecycle-livedata-core 2.11.0 – Quellkommentar-Auszüge",
+      "path": "texts/cadb1fd42865c72064c16c85a4d640b8c637b64cd40af4f0b4a1298d1895c57e.txt",
+      "sha256": "cadb1fd42865c72064c16c85a4d640b8c637b64cd40af4f0b4a1298d1895c57e",
+      "sizeBytes": 1645,
+      "kind": "attribution",
+      "components": [
+        "androidx.lifecycle:lifecycle-livedata-core:2.11.0"
+      ]
+    },
+    {
+      "id": "1b8fa8dbc385aa09071c86fd5615ba851abe07fd3a55fe7ecd8c112d248153ca",
+      "title": "lifecycle-process 2.11.0 – Quellkommentar-Auszüge",
+      "path": "texts/1b8fa8dbc385aa09071c86fd5615ba851abe07fd3a55fe7ecd8c112d248153ca.txt",
+      "sha256": "1b8fa8dbc385aa09071c86fd5615ba851abe07fd3a55fe7ecd8c112d248153ca",
+      "sizeBytes": 1694,
+      "kind": "attribution",
+      "components": [
+        "androidx.lifecycle:lifecycle-process:2.11.0"
+      ]
+    },
+    {
+      "id": "fd16e5be004adf8464bb81304e5dac37e3f6c013c12e5184bf3ea627874c1f7f",
+      "title": "lifecycle-runtime 2.11.0 – Quellkommentar-Auszüge",
+      "path": "texts/fd16e5be004adf8464bb81304e5dac37e3f6c013c12e5184bf3ea627874c1f7f.txt",
+      "sha256": "fd16e5be004adf8464bb81304e5dac37e3f6c013c12e5184bf3ea627874c1f7f",
+      "sizeBytes": 4675,
+      "kind": "attribution",
+      "components": [
+        "androidx.lifecycle:lifecycle-runtime:2.11.0"
+      ]
+    },
+    {
+      "id": "9567a4b82825f703339abf10a2c40b3cf0cd276e1388113fa7cbb1ec98a09cb8",
+      "title": "lifecycle-runtime-android 2.11.0 – Quellkommentar-Auszüge",
+      "path": "texts/9567a4b82825f703339abf10a2c40b3cf0cd276e1388113fa7cbb1ec98a09cb8.txt",
+      "sha256": "9567a4b82825f703339abf10a2c40b3cf0cd276e1388113fa7cbb1ec98a09cb8",
+      "sizeBytes": 5391,
+      "kind": "attribution",
+      "components": [
+        "androidx.lifecycle:lifecycle-runtime-android:2.11.0"
+      ]
+    },
+    {
+      "id": "4d7748edb300382924b57a5a3085d165d25e2e7ec68135e76b538567c0b42ed2",
+      "title": "lifecycle-runtime-compose 2.11.0 – Quellkommentar-Auszüge",
+      "path": "texts/4d7748edb300382924b57a5a3085d165d25e2e7ec68135e76b538567c0b42ed2.txt",
+      "sha256": "4d7748edb300382924b57a5a3085d165d25e2e7ec68135e76b538567c0b42ed2",
+      "sizeBytes": 3146,
+      "kind": "attribution",
+      "components": [
+        "androidx.lifecycle:lifecycle-runtime-compose:2.11.0"
+      ]
+    },
+    {
+      "id": "f8c1717659c56ce2e2c12bd7c611e77c03ad385b6fb9fb0b7ac7792bf8540e10",
+      "title": "lifecycle-runtime-compose-android 2.11.0 – Quellkommentar-Auszüge",
+      "path": "texts/f8c1717659c56ce2e2c12bd7c611e77c03ad385b6fb9fb0b7ac7792bf8540e10.txt",
+      "sha256": "f8c1717659c56ce2e2c12bd7c611e77c03ad385b6fb9fb0b7ac7792bf8540e10",
+      "sizeBytes": 3154,
+      "kind": "attribution",
+      "components": [
+        "androidx.lifecycle:lifecycle-runtime-compose-android:2.11.0"
+      ]
+    },
+    {
+      "id": "8d2a8c0736804f307b5eb574c586e44fc4bf0d8b7f2d096556050cc1895ad876",
+      "title": "lifecycle-service 2.11.0 – Quellkommentar-Auszüge",
+      "path": "texts/8d2a8c0736804f307b5eb574c586e44fc4bf0d8b7f2d096556050cc1895ad876.txt",
+      "sha256": "8d2a8c0736804f307b5eb574c586e44fc4bf0d8b7f2d096556050cc1895ad876",
+      "sizeBytes": 945,
+      "kind": "attribution",
+      "components": [
+        "androidx.lifecycle:lifecycle-service:2.11.0"
+      ]
+    },
+    {
+      "id": "fa2042e504e0aa7171c5c12fc05926c0ea52fd03eab8cb98ecddd4e93bd29d62",
+      "title": "lifecycle-viewmodel 2.11.0 – Quellkommentar-Auszüge",
+      "path": "texts/fa2042e504e0aa7171c5c12fc05926c0ea52fd03eab8cb98ecddd4e93bd29d62.txt",
+      "sha256": "fa2042e504e0aa7171c5c12fc05926c0ea52fd03eab8cb98ecddd4e93bd29d62",
+      "sizeBytes": 7440,
+      "kind": "attribution",
+      "components": [
+        "androidx.lifecycle:lifecycle-viewmodel:2.11.0"
+      ]
+    },
+    {
+      "id": "50acd288dca9941f5894d3533af91fe59948aa8bfa1e9c5047ce5d1bea8759ea",
+      "title": "lifecycle-viewmodel-android 2.11.0 – Quellkommentar-Auszüge",
+      "path": "texts/50acd288dca9941f5894d3533af91fe59948aa8bfa1e9c5047ce5d1bea8759ea.txt",
+      "sha256": "50acd288dca9941f5894d3533af91fe59948aa8bfa1e9c5047ce5d1bea8759ea",
+      "sizeBytes": 8593,
+      "kind": "attribution",
+      "components": [
+        "androidx.lifecycle:lifecycle-viewmodel-android:2.11.0"
+      ]
+    },
+    {
+      "id": "ec1f0f88844697b6b5aa2d3a21f4529fc70c832cd756efab19b7333220b73987",
+      "title": "lifecycle-viewmodel-compose 2.11.0 – Quellkommentar-Auszüge",
+      "path": "texts/ec1f0f88844697b6b5aa2d3a21f4529fc70c832cd756efab19b7333220b73987.txt",
+      "sha256": "ec1f0f88844697b6b5aa2d3a21f4529fc70c832cd756efab19b7333220b73987",
+      "sizeBytes": 3557,
+      "kind": "attribution",
+      "components": [
+        "androidx.lifecycle:lifecycle-viewmodel-compose:2.11.0"
+      ]
+    },
+    {
+      "id": "71f529ad939008765c172080a1e558215e60a4e97b825f98a0e8afe20f6371e4",
+      "title": "lifecycle-viewmodel-compose-android 2.11.0 – Quellkommentar-Auszüge",
+      "path": "texts/71f529ad939008765c172080a1e558215e60a4e97b825f98a0e8afe20f6371e4.txt",
+      "sha256": "71f529ad939008765c172080a1e558215e60a4e97b825f98a0e8afe20f6371e4",
+      "sizeBytes": 4210,
+      "kind": "attribution",
+      "components": [
+        "androidx.lifecycle:lifecycle-viewmodel-compose-android:2.11.0"
+      ]
+    },
+    {
+      "id": "ec200691fdff17e812ccc3d83173cca1e9b84a54f0ed8b2f0d2f318ce967281c",
+      "title": "lifecycle-viewmodel-savedstate 2.11.0 – Quellkommentar-Auszüge",
+      "path": "texts/ec200691fdff17e812ccc3d83173cca1e9b84a54f0ed8b2f0d2f318ce967281c.txt",
+      "sha256": "ec200691fdff17e812ccc3d83173cca1e9b84a54f0ed8b2f0d2f318ce967281c",
+      "sizeBytes": 5068,
+      "kind": "attribution",
+      "components": [
+        "androidx.lifecycle:lifecycle-viewmodel-savedstate:2.11.0"
+      ]
+    },
+    {
+      "id": "25a06cbaf78a5633a8fdd334beddc07645d2dda9753a11054653cbcd0d05bc77",
+      "title": "lifecycle-viewmodel-savedstate-android 2.11.0 – Quellkommentar-Auszüge",
+      "path": "texts/25a06cbaf78a5633a8fdd334beddc07645d2dda9753a11054653cbcd0d05bc77.txt",
+      "sha256": "25a06cbaf78a5633a8fdd334beddc07645d2dda9753a11054653cbcd0d05bc77",
+      "sizeBytes": 5735,
+      "kind": "attribution",
+      "components": [
+        "androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.11.0"
+      ]
+    },
+    {
+      "id": "a6752c6809cdf8448c00ef43c754dc7d2f763bffd0e05ad3ddb956f50445b36b",
+      "title": "loader 1.0.0 – Quellkommentar-Auszüge",
+      "path": "texts/a6752c6809cdf8448c00ef43c754dc7d2f763bffd0e05ad3ddb956f50445b36b.txt",
+      "sha256": "a6752c6809cdf8448c00ef43c754dc7d2f763bffd0e05ad3ddb956f50445b36b",
+      "sizeBytes": 1092,
+      "kind": "attribution",
+      "components": [
+        "androidx.loader:loader:1.0.0"
+      ]
+    },
+    {
+      "id": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851",
+      "title": "Lottie / Kotlin Serialization – Apache License 2.0",
+      "path": "texts/c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851.txt",
+      "sha256": "c5accbbd8546e94c34aed24afe689a617627d18eed5a6c48277e48db57c23851",
+      "sizeBytes": 11356,
+      "kind": "license",
+      "components": [
+        "com.airbnb.android:lottie-compose:6.7.1",
+        "com.airbnb.android:lottie:6.7.1",
+        "org.jetbrains.kotlinx:kotlinx-serialization-bom:1.11.0",
+        "org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.11.0",
+        "org.jetbrains.kotlinx:kotlinx-serialization-core:1.11.0",
+        "org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.11.0",
+        "org.jetbrains.kotlinx:kotlinx-serialization-json:1.11.0"
+      ]
+    },
+    {
+      "id": "ad732b54e02a1d9c67c3d8dc1e1c06add8564eab409e63cfe6c1ad493e761993",
+      "title": "lottie 6.7.1 – Quellkommentar-Auszüge",
+      "path": "texts/ad732b54e02a1d9c67c3d8dc1e1c06add8564eab409e63cfe6c1ad493e761993.txt",
+      "sha256": "ad732b54e02a1d9c67c3d8dc1e1c06add8564eab409e63cfe6c1ad493e761993",
+      "sizeBytes": 3082,
+      "kind": "attribution",
+      "components": [
+        "com.airbnb.android:lottie:6.7.1"
+      ]
+    },
+    {
+      "id": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+      "title": "Manrope – SIL Open Font License 1.1",
+      "path": "texts/58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b.txt",
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+      "sizeBytes": 4387,
+      "kind": "license",
+      "components": [
+        "Manrope"
+      ]
+    },
+    {
+      "id": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+      "title": "Material Symbols – Apache License 2.0",
+      "path": "texts/58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd.txt",
+      "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+      "sizeBytes": 11357,
+      "kind": "license",
+      "components": [
+        "Material Symbols Outlined"
+      ]
+    },
+    {
+      "id": "b523f2a30a1c2b8e990ef6372e39428b1c869e344db93dca5c685b017013cfa8",
+      "title": "material-ripple 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/b523f2a30a1c2b8e990ef6372e39428b1c869e344db93dca5c685b017013cfa8.txt",
+      "sha256": "b523f2a30a1c2b8e990ef6372e39428b1c869e344db93dca5c685b017013cfa8",
+      "sizeBytes": 3183,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.material:material-ripple:1.12.1"
+      ]
+    },
+    {
+      "id": "13cd4b4c1fadbc4bb970699e3529bae7bd853fee8fa18b932be0ce7f2444330f",
+      "title": "material-ripple-android 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/13cd4b4c1fadbc4bb970699e3529bae7bd853fee8fa18b932be0ce7f2444330f.txt",
+      "sha256": "13cd4b4c1fadbc4bb970699e3529bae7bd853fee8fa18b932be0ce7f2444330f",
+      "sizeBytes": 2603,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.material:material-ripple-android:1.12.1"
+      ]
+    },
+    {
+      "id": "dfdd02a4dff10aa7478da1a5705b94daf1526f7b49a50a014bdb0a4d2487bfb4",
+      "title": "material3 1.4.0 – Quellkommentar-Auszüge",
+      "path": "texts/dfdd02a4dff10aa7478da1a5705b94daf1526f7b49a50a014bdb0a4d2487bfb4.txt",
+      "sha256": "dfdd02a4dff10aa7478da1a5705b94daf1526f7b49a50a014bdb0a4d2487bfb4",
+      "sizeBytes": 19680,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.material3:material3:1.4.0"
+      ]
+    },
+    {
+      "id": "6e72c0ff3a9b1167bf700e4f6617ac3bd9bbbaa3dc42e35e35df7db1504856da",
+      "title": "material3-android 1.4.0 – Quellkommentar-Auszüge",
+      "path": "texts/6e72c0ff3a9b1167bf700e4f6617ac3bd9bbbaa3dc42e35e35df7db1504856da.txt",
+      "sha256": "6e72c0ff3a9b1167bf700e4f6617ac3bd9bbbaa3dc42e35e35df7db1504856da",
+      "sizeBytes": 20407,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.material3:material3-android:1.4.0"
+      ]
+    },
+    {
+      "id": "523f26b13358a10ae160cecf384dc22c91c62c39e9a1bc60750a986c4ea6edbb",
+      "title": "media 1.7.0 – Quellkommentar-Auszüge",
+      "path": "texts/523f26b13358a10ae160cecf384dc22c91c62c39e9a1bc60750a986c4ea6edbb.txt",
+      "sha256": "523f26b13358a10ae160cecf384dc22c91c62c39e9a1bc60750a986c4ea6edbb",
+      "sizeBytes": 4675,
+      "kind": "attribution",
+      "components": [
+        "androidx.media:media:1.7.0"
+      ]
+    },
+    {
+      "id": "fa7950f16e987622d6b4c56bb653760ddcc9e392bb39a255f3008713e93b64a8",
+      "title": "media3-common 1.11.1 – Quellkommentar-Auszüge",
+      "path": "texts/fa7950f16e987622d6b4c56bb653760ddcc9e392bb39a255f3008713e93b64a8.txt",
+      "sha256": "fa7950f16e987622d6b4c56bb653760ddcc9e392bb39a255f3008713e93b64a8",
+      "sizeBytes": 25945,
+      "kind": "attribution",
+      "components": [
+        "androidx.media3:media3-common:1.11.1"
+      ]
+    },
+    {
+      "id": "0c0b53ad309c43841b94abff375b8ca0fba5105933a025aee7ad75130646e2b6",
+      "title": "media3-container 1.11.1 – Quellkommentar-Auszüge",
+      "path": "texts/0c0b53ad309c43841b94abff375b8ca0fba5105933a025aee7ad75130646e2b6.txt",
+      "sha256": "0c0b53ad309c43841b94abff375b8ca0fba5105933a025aee7ad75130646e2b6",
+      "sizeBytes": 6778,
+      "kind": "attribution",
+      "components": [
+        "androidx.media3:media3-container:1.11.1"
+      ]
+    },
+    {
+      "id": "5ecfc49974ce5285eb22139f47117e77b2fd0862a1c1d6087bf7defd86a22465",
+      "title": "media3-database 1.11.1 – Quellkommentar-Auszüge",
+      "path": "texts/5ecfc49974ce5285eb22139f47117e77b2fd0862a1c1d6087bf7defd86a22465.txt",
+      "sha256": "5ecfc49974ce5285eb22139f47117e77b2fd0862a1c1d6087bf7defd86a22465",
+      "sizeBytes": 1850,
+      "kind": "attribution",
+      "components": [
+        "androidx.media3:media3-database:1.11.1"
+      ]
+    },
+    {
+      "id": "d01222c3c54910ffdfb07eaf89c47a238dcaeba8a6f4cdfdf3a368cadadeb6e6",
+      "title": "media3-datasource 1.11.1 – Quellkommentar-Auszüge",
+      "path": "texts/d01222c3c54910ffdfb07eaf89c47a238dcaeba8a6f4cdfdf3a368cadadeb6e6.txt",
+      "sha256": "d01222c3c54910ffdfb07eaf89c47a238dcaeba8a6f4cdfdf3a368cadadeb6e6",
+      "sizeBytes": 9691,
+      "kind": "attribution",
+      "components": [
+        "androidx.media3:media3-datasource:1.11.1"
+      ]
+    },
+    {
+      "id": "fe87decf6634244385246d01bbd39bbd3f18b2c932ac63fc071af0b0c659041a",
+      "title": "media3-decoder 1.11.1 – Quellkommentar-Auszüge",
+      "path": "texts/fe87decf6634244385246d01bbd39bbd3f18b2c932ac63fc071af0b0c659041a.txt",
+      "sha256": "fe87decf6634244385246d01bbd39bbd3f18b2c932ac63fc071af0b0c659041a",
+      "sizeBytes": 2696,
+      "kind": "attribution",
+      "components": [
+        "androidx.media3:media3-decoder:1.11.1"
+      ]
+    },
+    {
+      "id": "e887443ef0f087257d0a1f36acfbdbb5b54cfaabf1bcd4209cb4552521fd166f",
+      "title": "media3-exoplayer 1.11.1 – Quellkommentar-Auszüge",
+      "path": "texts/e887443ef0f087257d0a1f36acfbdbb5b54cfaabf1bcd4209cb4552521fd166f.txt",
+      "sha256": "e887443ef0f087257d0a1f36acfbdbb5b54cfaabf1bcd4209cb4552521fd166f",
+      "sizeBytes": 35710,
+      "kind": "attribution",
+      "components": [
+        "androidx.media3:media3-exoplayer:1.11.1"
+      ]
+    },
+    {
+      "id": "1b6773bf2d208af50aff43914e066cfc0a8dcb5c471671a49cf50f6606aa12f0",
+      "title": "media3-extractor 1.11.1 – Quellkommentar-Auszüge",
+      "path": "texts/1b6773bf2d208af50aff43914e066cfc0a8dcb5c471671a49cf50f6606aa12f0.txt",
+      "sha256": "1b6773bf2d208af50aff43914e066cfc0a8dcb5c471671a49cf50f6606aa12f0",
+      "sizeBytes": 28499,
+      "kind": "attribution",
+      "components": [
+        "androidx.media3:media3-extractor:1.11.1"
+      ]
+    },
+    {
+      "id": "6cb2bfbac5470e5127d509bd99681955d8a33b3c88969188de18023d6a0a5a3f",
+      "title": "media3-session 1.11.1 – Quellkommentar-Auszüge",
+      "path": "texts/6cb2bfbac5470e5127d509bd99681955d8a33b3c88969188de18023d6a0a5a3f.txt",
+      "sha256": "6cb2bfbac5470e5127d509bd99681955d8a33b3c88969188de18023d6a0a5a3f",
+      "sizeBytes": 12469,
+      "kind": "attribution",
+      "components": [
+        "androidx.media3:media3-session:1.11.1"
+      ]
+    },
+    {
+      "id": "3d160b66dabb695d681ca8cac1cbf06c774af5055c20c88b3a6df342c3866f20",
+      "title": "navigation-common 2.10.2 – Quellkommentar-Auszüge",
+      "path": "texts/3d160b66dabb695d681ca8cac1cbf06c774af5055c20c88b3a6df342c3866f20.txt",
+      "sha256": "3d160b66dabb695d681ca8cac1cbf06c774af5055c20c88b3a6df342c3866f20",
+      "sizeBytes": 8476,
+      "kind": "attribution",
+      "components": [
+        "androidx.navigation:navigation-common:2.10.2"
+      ]
+    },
+    {
+      "id": "26103599a8c2f6480365a13a8e623a6697bf614f091c9474cf3031cb9f7b3038",
+      "title": "navigation-common-android 2.10.2 – Quellkommentar-Auszüge",
+      "path": "texts/26103599a8c2f6480365a13a8e623a6697bf614f091c9474cf3031cb9f7b3038.txt",
+      "sha256": "26103599a8c2f6480365a13a8e623a6697bf614f091c9474cf3031cb9f7b3038",
+      "sizeBytes": 8306,
+      "kind": "attribution",
+      "components": [
+        "androidx.navigation:navigation-common-android:2.10.2"
+      ]
+    },
+    {
+      "id": "6872c9409b98a8bca5d158be2f6b5fa23cf38156ca6b718a1fd51352703b8e80",
+      "title": "navigation-compose 2.10.2 – Quellkommentar-Auszüge",
+      "path": "texts/6872c9409b98a8bca5d158be2f6b5fa23cf38156ca6b718a1fd51352703b8e80.txt",
+      "sha256": "6872c9409b98a8bca5d158be2f6b5fa23cf38156ca6b718a1fd51352703b8e80",
+      "sizeBytes": 5289,
+      "kind": "attribution",
+      "components": [
+        "androidx.navigation:navigation-compose:2.10.2"
+      ]
+    },
+    {
+      "id": "c2fd3dd11808b440664d57bb99c961a9c788c293194d2983b2d4be54f7b289c7",
+      "title": "navigation-compose-android 2.10.2 – Quellkommentar-Auszüge",
+      "path": "texts/c2fd3dd11808b440664d57bb99c961a9c788c293194d2983b2d4be54f7b289c7.txt",
+      "sha256": "c2fd3dd11808b440664d57bb99c961a9c788c293194d2983b2d4be54f7b289c7",
+      "sizeBytes": 5204,
+      "kind": "attribution",
+      "components": [
+        "androidx.navigation:navigation-compose-android:2.10.2"
+      ]
+    },
+    {
+      "id": "b5a1c670483488a60936c7c13fce9c9b12df42ee35d5f0edd202067541d0754a",
+      "title": "navigation-runtime 2.10.2 – Quellkommentar-Auszüge",
+      "path": "texts/b5a1c670483488a60936c7c13fce9c9b12df42ee35d5f0edd202067541d0754a.txt",
+      "sha256": "b5a1c670483488a60936c7c13fce9c9b12df42ee35d5f0edd202067541d0754a",
+      "sizeBytes": 5319,
+      "kind": "attribution",
+      "components": [
+        "androidx.navigation:navigation-runtime:2.10.2"
+      ]
+    },
+    {
+      "id": "61fc51eac520e472043533be441bcd6961e725cc1028ba46b1b4789c80845aee",
+      "title": "navigation-runtime-android 2.10.2 – Quellkommentar-Auszüge",
+      "path": "texts/61fc51eac520e472043533be441bcd6961e725cc1028ba46b1b4789c80845aee.txt",
+      "sha256": "61fc51eac520e472043533be441bcd6961e725cc1028ba46b1b4789c80845aee",
+      "sizeBytes": 5085,
+      "kind": "attribution",
+      "components": [
+        "androidx.navigation:navigation-runtime-android:2.10.2"
+      ]
+    },
+    {
+      "id": "8dc22672e32f8a13046ae8ef66cbeb8720b850cbfd904f2f495926255f9b3b0c",
+      "title": "navigationevent 1.1.2 – Quellkommentar-Auszüge",
+      "path": "texts/8dc22672e32f8a13046ae8ef66cbeb8720b850cbfd904f2f495926255f9b3b0c.txt",
+      "sha256": "8dc22672e32f8a13046ae8ef66cbeb8720b850cbfd904f2f495926255f9b3b0c",
+      "sizeBytes": 3214,
+      "kind": "attribution",
+      "components": [
+        "androidx.navigationevent:navigationevent:1.1.2"
+      ]
+    },
+    {
+      "id": "00fe5fedcb8624e613f0ddefb8fc2e4a394a6f15aaa9a359bad272d2e274a59b",
+      "title": "navigationevent-android 1.1.2 – Quellkommentar-Auszüge",
+      "path": "texts/00fe5fedcb8624e613f0ddefb8fc2e4a394a6f15aaa9a359bad272d2e274a59b.txt",
+      "sha256": "00fe5fedcb8624e613f0ddefb8fc2e4a394a6f15aaa9a359bad272d2e274a59b",
+      "sizeBytes": 3299,
+      "kind": "attribution",
+      "components": [
+        "androidx.navigationevent:navigationevent-android:1.1.2"
+      ]
+    },
+    {
+      "id": "d28c47733789afd6e447091eac08b80926bab2a76ae62cb7e0e29399410fb8f9",
+      "title": "navigationevent-compose 1.1.2 – Quellkommentar-Auszüge",
+      "path": "texts/d28c47733789afd6e447091eac08b80926bab2a76ae62cb7e0e29399410fb8f9.txt",
+      "sha256": "d28c47733789afd6e447091eac08b80926bab2a76ae62cb7e0e29399410fb8f9",
+      "sizeBytes": 1989,
+      "kind": "attribution",
+      "components": [
+        "androidx.navigationevent:navigationevent-compose:1.1.2"
+      ]
+    },
+    {
+      "id": "0d1b3810487b3da152d4ec76e613b62c030a7cddf539c13be9e8332657b01fdb",
+      "title": "navigationevent-compose-android 1.1.2 – Quellkommentar-Auszüge",
+      "path": "texts/0d1b3810487b3da152d4ec76e613b62c030a7cddf539c13be9e8332657b01fdb.txt",
+      "sha256": "0d1b3810487b3da152d4ec76e613b62c030a7cddf539c13be9e8332657b01fdb",
+      "sizeBytes": 1991,
+      "kind": "attribution",
+      "components": [
+        "androidx.navigationevent:navigationevent-compose-android:1.1.2"
+      ]
+    },
+    {
+      "id": "640e2fcbb9db52aeda1d3a0f83ff3363eb673c89129cca28fa1640909f24cb9f",
+      "title": "nimbus-jose-jwt 10.10 – Quellkommentar-Auszüge",
+      "path": "texts/640e2fcbb9db52aeda1d3a0f83ff3363eb673c89129cca28fa1640909f24cb9f.txt",
+      "sha256": "640e2fcbb9db52aeda1d3a0f83ff3363eb673c89129cca28fa1640909f24cb9f",
+      "sizeBytes": 26444,
+      "kind": "attribution",
+      "components": [
+        "com.nimbusds:nimbus-jose-jwt:10.10"
+      ]
+    },
+    {
+      "id": "685576d740102a443fa6f66d1963eb4e8d87a189de5b907b8100546662644174",
+      "title": "okhttp 5.5.0 – Quellkommentar-Auszüge",
+      "path": "texts/685576d740102a443fa6f66d1963eb4e8d87a189de5b907b8100546662644174.txt",
+      "sha256": "685576d740102a443fa6f66d1963eb4e8d87a189de5b907b8100546662644174",
+      "sizeBytes": 27682,
+      "kind": "attribution",
+      "components": [
+        "com.squareup.okhttp3:okhttp:5.5.0"
+      ]
+    },
+    {
+      "id": "9e53055bcb6011cc6200e39a9437afc48ec6d6ae800f34df26f382e3058140db",
+      "title": "okhttp-android 5.5.0 – Quellkommentar-Auszüge",
+      "path": "texts/9e53055bcb6011cc6200e39a9437afc48ec6d6ae800f34df26f382e3058140db.txt",
+      "sha256": "9e53055bcb6011cc6200e39a9437afc48ec6d6ae800f34df26f382e3058140db",
+      "sizeBytes": 28936,
+      "kind": "attribution",
+      "components": [
+        "com.squareup.okhttp3:okhttp-android:5.5.0"
+      ]
+    },
+    {
+      "id": "59095f36a1be535d397c5b5bac1e3c5891d9d147fe1f63389305cd17ac853359",
+      "title": "okio 3.18.1 – Quellkommentar-Auszüge",
+      "path": "texts/59095f36a1be535d397c5b5bac1e3c5891d9d147fe1f63389305cd17ac853359.txt",
+      "sha256": "59095f36a1be535d397c5b5bac1e3c5891d9d147fe1f63389305cd17ac853359",
+      "sizeBytes": 15758,
+      "kind": "attribution",
+      "components": [
+        "com.squareup.okio:okio:3.18.1"
+      ]
+    },
+    {
+      "id": "54a772e8aff2f8ea611e043aa41f46c6e85358335fd6a41bd04190164a4d936b",
+      "title": "okio-jvm 3.18.1 – Quellkommentar-Auszüge",
+      "path": "texts/54a772e8aff2f8ea611e043aa41f46c6e85358335fd6a41bd04190164a4d936b.txt",
+      "sha256": "54a772e8aff2f8ea611e043aa41f46c6e85358335fd6a41bd04190164a4d936b",
+      "sizeBytes": 15641,
+      "kind": "attribution",
+      "components": [
+        "com.squareup.okio:okio-jvm:3.18.1"
+      ]
+    },
+    {
+      "id": "39e8f94a1c38f440037980c5a9f7abd8f5803100d14ec63fa18b7f6090a66ff2",
+      "title": "profileinstaller 1.4.0 – Quellkommentar-Auszüge",
+      "path": "texts/39e8f94a1c38f440037980c5a9f7abd8f5803100d14ec63fa18b7f6090a66ff2.txt",
+      "sha256": "39e8f94a1c38f440037980c5a9f7abd8f5803100d14ec63fa18b7f6090a66ff2",
+      "sizeBytes": 2795,
+      "kind": "attribution",
+      "components": [
+        "androidx.profileinstaller:profileinstaller:1.4.0"
+      ]
+    },
+    {
+      "id": "6e5e117324afd944dcf67f36cf329843bc1a92229a8cd9bb573d7a83130fea7d",
+      "title": "Protobuf 4.28.2 / v28.2 – BSD-3-Clause",
+      "path": "texts/6e5e117324afd944dcf67f36cf329843bc1a92229a8cd9bb573d7a83130fea7d.txt",
+      "sha256": "6e5e117324afd944dcf67f36cf329843bc1a92229a8cd9bb573d7a83130fea7d",
+      "sizeBytes": 1732,
+      "kind": "license",
+      "components": [
+        "androidx.datastore:datastore-preferences-external-protobuf:1.2.1"
+      ]
+    },
+    {
+      "id": "a01b712fbb30f80b86851468b6fa58e80eab68f69f325e88bbc7ddf47cf1b063",
+      "title": "Protobuf – BSD-Bedingungen im Archiv",
+      "path": "texts/a01b712fbb30f80b86851468b6fa58e80eab68f69f325e88bbc7ddf47cf1b063.txt",
+      "sha256": "a01b712fbb30f80b86851468b6fa58e80eab68f69f325e88bbc7ddf47cf1b063",
+      "sizeBytes": 1434,
+      "kind": "license",
+      "components": [
+        "androidx.datastore:datastore-preferences-external-protobuf:1.2.1"
+      ]
+    },
+    {
+      "id": "0fd8bc105cacc16a994609108971d25ee7d6d6cd25151120cf35469b6b966d2a",
+      "title": "resourceinspection-annotation 1.0.1 – Quellkommentar-Auszüge",
+      "path": "texts/0fd8bc105cacc16a994609108971d25ee7d6d6cd25151120cf35469b6b966d2a.txt",
+      "sha256": "0fd8bc105cacc16a994609108971d25ee7d6d6cd25151120cf35469b6b966d2a",
+      "sizeBytes": 1046,
+      "kind": "attribution",
+      "components": [
+        "androidx.resourceinspection:resourceinspection-annotation:1.0.1"
+      ]
+    },
+    {
+      "id": "ed1ae2f976087e155869ecc239da9db2995b856d8e60d7b813eee0e78e516fd1",
+      "title": "room-common 2.8.5 – Quellkommentar-Auszüge",
+      "path": "texts/ed1ae2f976087e155869ecc239da9db2995b856d8e60d7b813eee0e78e516fd1.txt",
+      "sha256": "ed1ae2f976087e155869ecc239da9db2995b856d8e60d7b813eee0e78e516fd1",
+      "sizeBytes": 7755,
+      "kind": "attribution",
+      "components": [
+        "androidx.room:room-common:2.8.5"
+      ]
+    },
+    {
+      "id": "733703e6c416d4bcb94f33b17e8c1de71237cd62f4d14ec75b974154d0259779",
+      "title": "room-common-jvm 2.8.5 – Quellkommentar-Auszüge",
+      "path": "texts/733703e6c416d4bcb94f33b17e8c1de71237cd62f4d14ec75b974154d0259779.txt",
+      "sha256": "733703e6c416d4bcb94f33b17e8c1de71237cd62f4d14ec75b974154d0259779",
+      "sizeBytes": 8568,
+      "kind": "attribution",
+      "components": [
+        "androidx.room:room-common-jvm:2.8.5"
+      ]
+    },
+    {
+      "id": "24f2cfdc17f31f9abb18c8ddc8a7434d54b983f4ad01569f8d5d79013cea725c",
+      "title": "room-runtime 2.8.5 – Quellkommentar-Auszüge",
+      "path": "texts/24f2cfdc17f31f9abb18c8ddc8a7434d54b983f4ad01569f8d5d79013cea725c.txt",
+      "sha256": "24f2cfdc17f31f9abb18c8ddc8a7434d54b983f4ad01569f8d5d79013cea725c",
+      "sizeBytes": 6991,
+      "kind": "attribution",
+      "components": [
+        "androidx.room:room-runtime:2.8.5"
+      ]
+    },
+    {
+      "id": "247fb66d4f65e362ddff1272f368fd85a1403df00a3351d55f39575a84fb5f91",
+      "title": "room-runtime-android 2.8.5 – Quellkommentar-Auszüge",
+      "path": "texts/247fb66d4f65e362ddff1272f368fd85a1403df00a3351d55f39575a84fb5f91.txt",
+      "sha256": "247fb66d4f65e362ddff1272f368fd85a1403df00a3351d55f39575a84fb5f91",
+      "sizeBytes": 12882,
+      "kind": "attribution",
+      "components": [
+        "androidx.room:room-runtime-android:2.8.5"
+      ]
+    },
+    {
+      "id": "4dd44a74c3840697e9902e9d7d604e20b11cb39c9b324bf676a2d8d87d2429e4",
+      "title": "runtime 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/4dd44a74c3840697e9902e9d7d604e20b11cb39c9b324bf676a2d8d87d2429e4.txt",
+      "sha256": "4dd44a74c3840697e9902e9d7d604e20b11cb39c9b324bf676a2d8d87d2429e4",
+      "sizeBytes": 24065,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.runtime:runtime:1.12.1"
+      ]
+    },
+    {
+      "id": "54a1e67d5dd327dc7b32d68d7c1222a1b17bf304d3d7554fce562831b81da5f3",
+      "title": "runtime-android 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/54a1e67d5dd327dc7b32d68d7c1222a1b17bf304d3d7554fce562831b81da5f3.txt",
+      "sha256": "54a1e67d5dd327dc7b32d68d7c1222a1b17bf304d3d7554fce562831b81da5f3",
+      "sizeBytes": 22974,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.runtime:runtime-android:1.12.1"
+      ]
+    },
+    {
+      "id": "9a494dff7effd5f7c65e4c554f1bbc8bc351c5d60b19b6a1c66d41a2d7097e94",
+      "title": "runtime-annotation 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/9a494dff7effd5f7c65e4c554f1bbc8bc351c5d60b19b6a1c66d41a2d7097e94.txt",
+      "sha256": "9a494dff7effd5f7c65e4c554f1bbc8bc351c5d60b19b6a1c66d41a2d7097e94",
+      "sizeBytes": 1864,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.runtime:runtime-annotation:1.12.1"
+      ]
+    },
+    {
+      "id": "e3299bdb30ff862917d4ad4a5866ab127e4a642bccad2d08bbce0cdde5495808",
+      "title": "runtime-annotation-android 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/e3299bdb30ff862917d4ad4a5866ab127e4a642bccad2d08bbce0cdde5495808.txt",
+      "sha256": "e3299bdb30ff862917d4ad4a5866ab127e4a642bccad2d08bbce0cdde5495808",
+      "sizeBytes": 1872,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.runtime:runtime-annotation-android:1.12.1"
+      ]
+    },
+    {
+      "id": "0f568309b34201f5831ac7c687b5ceec02b6dcc11d2e61a5ea8db492dfc9fbc7",
+      "title": "runtime-retain 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/0f568309b34201f5831ac7c687b5ceec02b6dcc11d2e61a5ea8db492dfc9fbc7.txt",
+      "sha256": "0f568309b34201f5831ac7c687b5ceec02b6dcc11d2e61a5ea8db492dfc9fbc7",
+      "sizeBytes": 1798,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.runtime:runtime-retain:1.12.1"
+      ]
+    },
+    {
+      "id": "7d747b995d183e8f7114aa54ca8da4d1b41ed498e81ef203ee8268bd28cf076f",
+      "title": "runtime-retain-android 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/7d747b995d183e8f7114aa54ca8da4d1b41ed498e81ef203ee8268bd28cf076f.txt",
+      "sha256": "7d747b995d183e8f7114aa54ca8da4d1b41ed498e81ef203ee8268bd28cf076f",
+      "sizeBytes": 1742,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.runtime:runtime-retain-android:1.12.1"
+      ]
+    },
+    {
+      "id": "b425b6231b65bf746c8a2479dafb03c9eaf45f31f9acf40734a55cb5ba405f33",
+      "title": "runtime-saveable 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/b425b6231b65bf746c8a2479dafb03c9eaf45f31f9acf40734a55cb5ba405f33.txt",
+      "sha256": "b425b6231b65bf746c8a2479dafb03c9eaf45f31f9acf40734a55cb5ba405f33",
+      "sizeBytes": 2753,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.runtime:runtime-saveable:1.12.1"
+      ]
+    },
+    {
+      "id": "2c0dd817ae61a3aaf057d9a2772613f76650c201e105bf1656c9d08d6b7f946e",
+      "title": "runtime-saveable-android 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/2c0dd817ae61a3aaf057d9a2772613f76650c201e105bf1656c9d08d6b7f946e.txt",
+      "sha256": "2c0dd817ae61a3aaf057d9a2772613f76650c201e105bf1656c9d08d6b7f946e",
+      "sizeBytes": 2761,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.runtime:runtime-saveable-android:1.12.1"
+      ]
+    },
+    {
+      "id": "020a766f9c19dac34407b040b2b26e5eb5962e70f1ceabe0f2d97d563165b14e",
+      "title": "savedstate 1.5.0 – Quellkommentar-Auszüge",
+      "path": "texts/020a766f9c19dac34407b040b2b26e5eb5962e70f1ceabe0f2d97d563165b14e.txt",
+      "sha256": "020a766f9c19dac34407b040b2b26e5eb5962e70f1ceabe0f2d97d563165b14e",
+      "sizeBytes": 6348,
+      "kind": "attribution",
+      "components": [
+        "androidx.savedstate:savedstate:1.5.0"
+      ]
+    },
+    {
+      "id": "9d2c6afe78505444ca479cfc3c51aa7d74c7d37337dbf60bd1bc4b0a8cf9eb9a",
+      "title": "savedstate-android 1.5.0 – Quellkommentar-Auszüge",
+      "path": "texts/9d2c6afe78505444ca479cfc3c51aa7d74c7d37337dbf60bd1bc4b0a8cf9eb9a.txt",
+      "sha256": "9d2c6afe78505444ca479cfc3c51aa7d74c7d37337dbf60bd1bc4b0a8cf9eb9a",
+      "sizeBytes": 7041,
+      "kind": "attribution",
+      "components": [
+        "androidx.savedstate:savedstate-android:1.5.0"
+      ]
+    },
+    {
+      "id": "a1bdcfc2c55b5c5afc710d0b849fa72e89c66c3337816f3a028b8727eb3675e8",
+      "title": "savedstate-compose 1.5.0 – Quellkommentar-Auszüge",
+      "path": "texts/a1bdcfc2c55b5c5afc710d0b849fa72e89c66c3337816f3a028b8727eb3675e8.txt",
+      "sha256": "a1bdcfc2c55b5c5afc710d0b849fa72e89c66c3337816f3a028b8727eb3675e8",
+      "sizeBytes": 2678,
+      "kind": "attribution",
+      "components": [
+        "androidx.savedstate:savedstate-compose:1.5.0"
+      ]
+    },
+    {
+      "id": "bb34be98cc1ba590bdc2569086adc0f3ddff1dd593696b5da85c20722b9fa128",
+      "title": "savedstate-compose-android 1.5.0 – Quellkommentar-Auszüge",
+      "path": "texts/bb34be98cc1ba590bdc2569086adc0f3ddff1dd593696b5da85c20722b9fa128.txt",
+      "sha256": "bb34be98cc1ba590bdc2569086adc0f3ddff1dd593696b5da85c20722b9fa128",
+      "sizeBytes": 2680,
+      "kind": "attribution",
+      "components": [
+        "androidx.savedstate:savedstate-compose-android:1.5.0"
+      ]
+    },
+    {
+      "id": "5f787c1dee3c56547f09ccc2906ab5f5293c4d8dd6c8654e573216c38e908dbd",
+      "title": "Skia – BSD-Lizenz (konservative Ergänzung)",
+      "path": "texts/5f787c1dee3c56547f09ccc2906ab5f5293c4d8dd6c8654e573216c38e908dbd.txt",
+      "sha256": "5f787c1dee3c56547f09ccc2906ab5f5293c4d8dd6c8654e573216c38e908dbd",
+      "sizeBytes": 1507,
+      "kind": "license",
+      "components": [
+        "androidx.graphics:graphics-path:1.0.1"
+      ]
+    },
+    {
+      "id": "607a632b3742f5f4300242f94043502bde3df2afc004ce6ecbdcdf75a5f68cfd",
+      "title": "sqlite 2.6.2 – Quellkommentar-Auszüge",
+      "path": "texts/607a632b3742f5f4300242f94043502bde3df2afc004ce6ecbdcdf75a5f68cfd.txt",
+      "sha256": "607a632b3742f5f4300242f94043502bde3df2afc004ce6ecbdcdf75a5f68cfd",
+      "sizeBytes": 1114,
+      "kind": "attribution",
+      "components": [
+        "androidx.sqlite:sqlite:2.6.2"
+      ]
+    },
+    {
+      "id": "ba867975d8f04c29306acbfccdebae27837e6bf8af7381b86d24a5230886ba4a",
+      "title": "sqlite-android 2.6.2 – Quellkommentar-Auszüge",
+      "path": "texts/ba867975d8f04c29306acbfccdebae27837e6bf8af7381b86d24a5230886ba4a.txt",
+      "sha256": "ba867975d8f04c29306acbfccdebae27837e6bf8af7381b86d24a5230886ba4a",
+      "sizeBytes": 3584,
+      "kind": "attribution",
+      "components": [
+        "androidx.sqlite:sqlite-android:2.6.2"
+      ]
+    },
+    {
+      "id": "d7872018333ed7ece75725ee2d0f1a1d2de5e05104a9bfa2ca4bb6e928024f1e",
+      "title": "sqlite-framework 2.6.2 – Quellkommentar-Auszüge",
+      "path": "texts/d7872018333ed7ece75725ee2d0f1a1d2de5e05104a9bfa2ca4bb6e928024f1e.txt",
+      "sha256": "d7872018333ed7ece75725ee2d0f1a1d2de5e05104a9bfa2ca4bb6e928024f1e",
+      "sizeBytes": 1075,
+      "kind": "attribution",
+      "components": [
+        "androidx.sqlite:sqlite-framework:2.6.2"
+      ]
+    },
+    {
+      "id": "96b7fba41e19819e7c605eadc23bfe8bb13eb7d9e68f28e44a3976434d6960b6",
+      "title": "sqlite-framework-android 2.6.2 – Quellkommentar-Auszüge",
+      "path": "texts/96b7fba41e19819e7c605eadc23bfe8bb13eb7d9e68f28e44a3976434d6960b6.txt",
+      "sha256": "96b7fba41e19819e7c605eadc23bfe8bb13eb7d9e68f28e44a3976434d6960b6",
+      "sizeBytes": 4302,
+      "kind": "attribution",
+      "components": [
+        "androidx.sqlite:sqlite-framework-android:2.6.2"
+      ]
+    },
+    {
+      "id": "62362d2043e94359814d6081149804e74f30b8ed9423f367f166c6d4fdea1c5f",
+      "title": "startup-runtime 1.2.0 – Quellkommentar-Auszüge",
+      "path": "texts/62362d2043e94359814d6081149804e74f30b8ed9423f367f166c6d4fdea1c5f.txt",
+      "sha256": "62362d2043e94359814d6081149804e74f30b8ed9423f367f166c6d4fdea1c5f",
+      "sizeBytes": 1042,
+      "kind": "attribution",
+      "components": [
+        "androidx.startup:startup-runtime:1.2.0"
+      ]
+    },
+    {
+      "id": "478d7b91ece3b1eccfa4e1c5a7a64ccfaf19396d96b44868a59e5f32f5237289",
+      "title": "tracing 1.2.0 – Quellkommentar-Auszüge",
+      "path": "texts/478d7b91ece3b1eccfa4e1c5a7a64ccfaf19396d96b44868a59e5f32f5237289.txt",
+      "sha256": "478d7b91ece3b1eccfa4e1c5a7a64ccfaf19396d96b44868a59e5f32f5237289",
+      "sizeBytes": 943,
+      "kind": "attribution",
+      "components": [
+        "androidx.tracing:tracing:1.2.0"
+      ]
+    },
+    {
+      "id": "0dadf2d23dda3f7ee1f241023b752b5d28650e6d169ca01014443436f644e873",
+      "title": "ui 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/0dadf2d23dda3f7ee1f241023b752b5d28650e6d169ca01014443436f644e873.txt",
+      "sha256": "0dadf2d23dda3f7ee1f241023b752b5d28650e6d169ca01014443436f644e873",
+      "sizeBytes": 22806,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.ui:ui:1.12.1"
+      ]
+    },
+    {
+      "id": "c4e3c431581ac6870bdec5d1cc9d0eacbab6783d0a008b07ec3b3319f4a97841",
+      "title": "ui-android 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/c4e3c431581ac6870bdec5d1cc9d0eacbab6783d0a008b07ec3b3319f4a97841.txt",
+      "sha256": "c4e3c431581ac6870bdec5d1cc9d0eacbab6783d0a008b07ec3b3319f4a97841",
+      "sizeBytes": 30058,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.ui:ui-android:1.12.1"
+      ]
+    },
+    {
+      "id": "7824a9abb706fee4e2944718957d0ca3595f7ee872569f1ff501e404780a7c6f",
+      "title": "ui-geometry 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/7824a9abb706fee4e2944718957d0ca3595f7ee872569f1ff501e404780a7c6f.txt",
+      "sha256": "7824a9abb706fee4e2944718957d0ca3595f7ee872569f1ff501e404780a7c6f",
+      "sizeBytes": 2572,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.ui:ui-geometry:1.12.1"
+      ]
+    },
+    {
+      "id": "38954c8bbd88bb61153849dbe34211f51ef5a5c4225f03dcf15c44729f5f35ba",
+      "title": "ui-geometry-android 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/38954c8bbd88bb61153849dbe34211f51ef5a5c4225f03dcf15c44729f5f35ba.txt",
+      "sha256": "38954c8bbd88bb61153849dbe34211f51ef5a5c4225f03dcf15c44729f5f35ba",
+      "sizeBytes": 2580,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.ui:ui-geometry-android:1.12.1"
+      ]
+    },
+    {
+      "id": "dd70f2cb1c06620c41611fd8460da35b96b45af1784ba4b0a56a041314e1207f",
+      "title": "ui-graphics 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/dd70f2cb1c06620c41611fd8460da35b96b45af1784ba4b0a56a041314e1207f.txt",
+      "sha256": "dd70f2cb1c06620c41611fd8460da35b96b45af1784ba4b0a56a041314e1207f",
+      "sizeBytes": 11755,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.ui:ui-graphics:1.12.1"
+      ]
+    },
+    {
+      "id": "f62a79f5cc1e0c7e1d4638c9fa7bf8170cf4bf7eb8d150765b3f32d249692745",
+      "title": "ui-graphics-android 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/f62a79f5cc1e0c7e1d4638c9fa7bf8170cf4bf7eb8d150765b3f32d249692745.txt",
+      "sha256": "f62a79f5cc1e0c7e1d4638c9fa7bf8170cf4bf7eb8d150765b3f32d249692745",
+      "sizeBytes": 12713,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.ui:ui-graphics-android:1.12.1"
+      ]
+    },
+    {
+      "id": "1079a5b9424383ea9220ab1a4afc30a503b7977f82536dc6fd05c92fa5f6ae5b",
+      "title": "ui-text 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/1079a5b9424383ea9220ab1a4afc30a503b7977f82536dc6fd05c92fa5f6ae5b.txt",
+      "sha256": "1079a5b9424383ea9220ab1a4afc30a503b7977f82536dc6fd05c92fa5f6ae5b",
+      "sizeBytes": 12345,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.ui:ui-text:1.12.1"
+      ]
+    },
+    {
+      "id": "08db65448260cc48f0f9458d6910765eb8975b57ebfa854b4a0cb0777a12350e",
+      "title": "ui-text-android 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/08db65448260cc48f0f9458d6910765eb8975b57ebfa854b4a0cb0777a12350e.txt",
+      "sha256": "08db65448260cc48f0f9458d6910765eb8975b57ebfa854b4a0cb0777a12350e",
+      "sizeBytes": 16914,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.ui:ui-text-android:1.12.1"
+      ]
+    },
+    {
+      "id": "624b6b54c29fc8d167e473763414440868d9b9b4efad7c9201505235d2741405",
+      "title": "ui-unit 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/624b6b54c29fc8d167e473763414440868d9b9b4efad7c9201505235d2741405.txt",
+      "sha256": "624b6b54c29fc8d167e473763414440868d9b9b4efad7c9201505235d2741405",
+      "sizeBytes": 4983,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.ui:ui-unit:1.12.1"
+      ]
+    },
+    {
+      "id": "b2d107ad9a2f64e93ce77deb44dd5df19f27d11bccd8a075fafc4bd9a2ef25e6",
+      "title": "ui-unit-android 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/b2d107ad9a2f64e93ce77deb44dd5df19f27d11bccd8a075fafc4bd9a2ef25e6.txt",
+      "sha256": "b2d107ad9a2f64e93ce77deb44dd5df19f27d11bccd8a075fafc4bd9a2ef25e6",
+      "sizeBytes": 5370,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.ui:ui-unit-android:1.12.1"
+      ]
+    },
+    {
+      "id": "72531a49ddc312851a094e988ead96da0e9405b3ee1a2e9ca896118eb9349298",
+      "title": "ui-util 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/72531a49ddc312851a094e988ead96da0e9405b3ee1a2e9ca896118eb9349298.txt",
+      "sha256": "72531a49ddc312851a094e988ead96da0e9405b3ee1a2e9ca896118eb9349298",
+      "sizeBytes": 4730,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.ui:ui-util:1.12.1"
+      ]
+    },
+    {
+      "id": "2e174f032fd87d7933656a11d535b4f74b96cdf5525fbe8008b6ae8f4fa73fb8",
+      "title": "ui-util-android 1.12.1 – Quellkommentar-Auszüge",
+      "path": "texts/2e174f032fd87d7933656a11d535b4f74b96cdf5525fbe8008b6ae8f4fa73fb8.txt",
+      "sha256": "2e174f032fd87d7933656a11d535b4f74b96cdf5525fbe8008b6ae8f4fa73fb8",
+      "sizeBytes": 4020,
+      "kind": "attribution",
+      "components": [
+        "androidx.compose.ui:ui-util-android:1.12.1"
+      ]
+    },
+    {
+      "id": "d93bd3c45c4215f07eca2f31afa6dd39f32012999d6954ddcb92eeac3ce92763",
+      "title": "vectordrawable 1.1.0 – Quellkommentar-Auszüge",
+      "path": "texts/d93bd3c45c4215f07eca2f31afa6dd39f32012999d6954ddcb92eeac3ce92763.txt",
+      "sha256": "d93bd3c45c4215f07eca2f31afa6dd39f32012999d6954ddcb92eeac3ce92763",
+      "sizeBytes": 1048,
+      "kind": "attribution",
+      "components": [
+        "androidx.vectordrawable:vectordrawable:1.1.0"
+      ]
+    },
+    {
+      "id": "8d27ecb5a83076dcba74f4893e62208592734210e2581b3c36b2294b3aa3eefa",
+      "title": "vectordrawable-animated 1.1.0 – Quellkommentar-Auszüge",
+      "path": "texts/8d27ecb5a83076dcba74f4893e62208592734210e2581b3c36b2294b3aa3eefa.txt",
+      "sha256": "8d27ecb5a83076dcba74f4893e62208592734210e2581b3c36b2294b3aa3eefa",
+      "sizeBytes": 1919,
+      "kind": "attribution",
+      "components": [
+        "androidx.vectordrawable:vectordrawable-animated:1.1.0"
+      ]
+    },
+    {
+      "id": "c8a2604b26394a154d8c6f3e1db5ce7a66f2a1dcc934af59710a301d3f7a218c",
+      "title": "Velu – MIT License",
+      "path": "texts/c8a2604b26394a154d8c6f3e1db5ce7a66f2a1dcc934af59710a301d3f7a218c.txt",
+      "sha256": "c8a2604b26394a154d8c6f3e1db5ce7a66f2a1dcc934af59710a301d3f7a218c",
+      "sizeBytes": 1074,
+      "kind": "project-license",
+      "components": [
+        "Velu (eigener Quellcode)"
+      ]
+    },
+    {
+      "id": "3c24b85d193954d97947bdea6f02b710536dce9220e662f2300a65b6f10f6b57",
+      "title": "versionedparcelable 1.1.1 – Quellkommentar-Auszüge",
+      "path": "texts/3c24b85d193954d97947bdea6f02b710536dce9220e662f2300a65b6f10f6b57.txt",
+      "sha256": "3c24b85d193954d97947bdea6f02b710536dce9220e662f2300a65b6f10f6b57",
+      "sizeBytes": 1387,
+      "kind": "attribution",
+      "components": [
+        "androidx.versionedparcelable:versionedparcelable:1.1.1"
+      ]
+    },
+    {
+      "id": "1e846c40494681c18918431f77e03bf6a378005bfd1afaf00b7266fbb9798f4b",
+      "title": "viewpager 1.0.0 – Quellkommentar-Auszüge",
+      "path": "texts/1e846c40494681c18918431f77e03bf6a378005bfd1afaf00b7266fbb9798f4b.txt",
+      "sha256": "1e846c40494681c18918431f77e03bf6a378005bfd1afaf00b7266fbb9798f4b",
+      "sizeBytes": 1023,
+      "kind": "attribution",
+      "components": [
+        "androidx.viewpager:viewpager:1.0.0"
+      ]
+    },
+    {
+      "id": "e7e7c8bc26d886926f5db6a825fb0d8bd819f155900e0bc0788928aa0186e4ca",
+      "title": "window 1.5.0 – Quellkommentar-Auszüge",
+      "path": "texts/e7e7c8bc26d886926f5db6a825fb0d8bd819f155900e0bc0788928aa0186e4ca.txt",
+      "sha256": "e7e7c8bc26d886926f5db6a825fb0d8bd819f155900e0bc0788928aa0186e4ca",
+      "sizeBytes": 10125,
+      "kind": "attribution",
+      "components": [
+        "androidx.window:window:1.5.0"
+      ]
+    },
+    {
+      "id": "58e426191436c7a70e1c766ebd8a40c93568d7a21a03181a358e9cb3977b56f9",
+      "title": "window-core 1.5.0 – Quellkommentar-Auszüge",
+      "path": "texts/58e426191436c7a70e1c766ebd8a40c93568d7a21a03181a358e9cb3977b56f9.txt",
+      "sha256": "58e426191436c7a70e1c766ebd8a40c93568d7a21a03181a358e9cb3977b56f9",
+      "sizeBytes": 2449,
+      "kind": "attribution",
+      "components": [
+        "androidx.window:window-core:1.5.0"
+      ]
+    },
+    {
+      "id": "a0d1a5dfb3eee0ebae63d53fa5f596de9ae9ed709d5b400a9f6716ef4d636699",
+      "title": "window-core-android 1.5.0 – Quellkommentar-Auszüge",
+      "path": "texts/a0d1a5dfb3eee0ebae63d53fa5f596de9ae9ed709d5b400a9f6716ef4d636699.txt",
+      "sha256": "a0d1a5dfb3eee0ebae63d53fa5f596de9ae9ed709d5b400a9f6716ef4d636699",
+      "sizeBytes": 2457,
+      "kind": "attribution",
+      "components": [
+        "androidx.window:window-core-android:1.5.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+Copyright- und Lizenzkommentare aus dem veröffentlichten Quellarchiv.
+Komponente: androidx.savedstate:savedstate-android:1.5.0
+Die Kommentare sind unverändert; identische Kommentare sind zusammengefasst.
+
+===== ARCHIVE ENTRIES: androidMain/androidx/savedstate/Recreator.android.kt, androidMain/androidx/savedstate/SavedStateRegistry.android.kt, commonMain/androidx/savedstate/SavedStateRegistryOwner.kt =====
+/*
+ * Copyright 2019 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: commonMain/androidx/savedstate/serialization/serializers/SavedStateSerializer.kt =====
+/*
+ * Copyright 2024 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: androidMain/androidx/savedstate/View.android.kt, androidMain/androidx/savedstate/ViewTreeSavedStateRegistryOwner.android.kt =====
+/*
+ * Copyright 2020 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: androidMain/androidx/savedstate/SavedStateRegistryController.android.kt =====
+/*
+ * Copyright 2018 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: commonMain/androidx/savedstate/SavedStateRegistryOwnerFactory.kt =====
+/*
+ * Copyright 2026 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: androidMain/androidx/savedstate/SavedState.android.kt, androidMain/androidx/savedstate/SavedStateReader.android.kt, androidMain/androidx/savedstate/SavedStateWriter.android.kt, androidMain/androidx/savedstate/serialization/SavedStateCodecUtils.android.kt, androidMain/androidx/savedstate/serialization/serializers/BuiltInSerializer.android.kt, jvmAndAndroidMain/androidx/savedstate/internal/SynchronizedObject.jvmAndAndroid.kt, commonMain/androidx/savedstate/SavedState.kt, commonMain/androidx/savedstate/SavedStateReader.kt, commonMain/androidx/savedstate/SavedStateRegistry.kt, commonMain/androidx/savedstate/SavedStateRegistryController.kt, commonMain/androidx/savedstate/SavedStateWriter.kt, commonMain/androidx/savedstate/internal/SavedStateRegistryImpl.kt, commonMain/androidx/savedstate/internal/SynchronizedObject.kt, commonMain/androidx/savedstate/serialization/SavedStateCodecUtils.kt, commonMain/androidx/savedstate/serialization/SavedStateDecoder.kt, commonMain/androidx/savedstate/serialization/SavedStateEncoder.kt, commonMain/androidx/savedstate/serialization/SavedStateRegistryOwnerDelegate.kt, commonMain/androidx/savedstate/serialization/serializers/SavedStateSerializerUtils.kt =====
+/*
+ * Copyright 2024 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: androidMain/androidx/savedstate/serialization/SavedStateConfiguration.android.kt, androidMain/androidx/savedstate/serialization/SavedStateDecoder.android.kt, androidMain/androidx/savedstate/serialization/SavedStateEncoder.android.kt, jvmAndAndroidMain/androidx/savedstate/internal/CanonicalName.jvmAndAndroid.kt, commonMain/androidx/savedstate/internal/CanonicalName.kt, commonMain/androidx/savedstate/serialization/ClassDiscriminatorMode.kt, commonMain/androidx/savedstate/serialization/SavedStateConfiguration.kt, commonMain/androidx/savedstate/serialization/serializers/MutableStateFlowSerializer.kt =====
+/*
+ * Copyright 2025 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+

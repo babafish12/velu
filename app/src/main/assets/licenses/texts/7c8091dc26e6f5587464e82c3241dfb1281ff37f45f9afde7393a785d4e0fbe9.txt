@@ -1,0 +1,65 @@
+ARCHIVE ENTRY: commonMain/kotlin/collections/AbstractList.kt
+
+/*
+ * Copyright 2010-2020 JetBrains s.r.o. and Kotlin Programming Language contributors.
+ * Use of this source code is governed by the Apache 2.0 license that can be found in the license/LICENSE.txt file.
+ */
+
+/*
+ * Based on GWT AbstractList
+ * Copyright 2007 Google Inc.
+*/
+
+ARCHIVE ENTRY: commonMain/kotlin/collections/AbstractMap.kt
+
+/*
+ * Copyright 2010-2020 JetBrains s.r.o. and Kotlin Programming Language contributors.
+ * Use of this source code is governed by the Apache 2.0 license that can be found in the license/LICENSE.txt file.
+ */
+
+/*
+ * Based on GWT AbstractMap
+ * Copyright 2007 Google Inc.
+ */
+
+ARCHIVE ENTRY: commonMain/kotlin/time/Instant.kt
+
+/*
+ * Copyright 2010-2024 JetBrains s.r.o. and Kotlin Programming Language contributors.
+ * Use of this source code is governed by the Apache 2.0 license that can be found in the license/LICENSE.txt file.
+ */
+
+/*
+ * Based on the ThreeTenBp project.
+ * Copyright (c) 2007-present, Stephen Colebourne & Michael Nascimento Santos
+ */
+
+ARCHIVE ENTRY: jvmMain/kotlin/collections/MapsJVM.kt
+
+/*
+ * Copyright 2010-2023 JetBrains s.r.o. and Kotlin Programming Language contributors.
+ * Use of this source code is governed by the Apache 2.0 license that can be found in the license/LICENSE.txt file.
+ */
+
+ARCHIVE ENTRY: jvmMain/kotlin/util/MathJVM.kt
+
+/*
+ * Copyright 2010-2022 JetBrains s.r.o. and Kotlin Programming Language contributors.
+ * Use of this source code is governed by the Apache 2.0 license that can be found in the license/LICENSE.txt file.
+ */
+
+// Inverse hyperbolic function implementations derived from boost special math functions,
+// Copyright Eric Ford & Hubert Holin 2001.
+
+
+ARCHIVE ENTRY: jvmMain/kotlin/util/UnsignedJVM.kt
+
+/*
+ * Copyright 2010-2023 JetBrains s.r.o. and Kotlin Programming Language contributors.
+ * Use of this source code is governed by the Apache 2.0 license that can be found in the license/LICENSE.txt file.
+ */
+
+// CHANGES IN THIS FILE SHOULD BE SYNCED WITH THE SAME CHANGES IN: UnsignedJs.kt and kotlin-native/Unsigned.kt
+// Division and remainder are based on Guava's UnsignedLongs implementation
+// Copyright 2011 The Guava Authors
+

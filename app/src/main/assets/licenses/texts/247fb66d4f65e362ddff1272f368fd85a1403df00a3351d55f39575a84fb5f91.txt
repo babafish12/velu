@@ -1,0 +1,208 @@
+Copyright- und Lizenzkommentare aus dem veröffentlichten Quellarchiv.
+Komponente: androidx.room:room-runtime-android:2.8.5
+Die Kommentare sind unverändert; identische Kommentare sind zusammengefasst.
+
+===== ARCHIVE ENTRIES: androidMain/androidx/room/EntityUpsertionAdapter.android.kt, androidMain/androidx/room/util/RelationUtil.android.kt =====
+/*
+ * Copyright 2022 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: androidMain/androidx/room/TransactionExecutor.android.kt, androidMain/androidx/room/support/PrePackagedCopyOpenHelper.android.kt, androidMain/androidx/room/support/PrePackagedCopyOpenHelperFactory.android.kt, androidMain/androidx/room/util/FileUtil.android.kt =====
+/*
+ * Copyright 2019 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: androidMain/androidx/room/DelegatingOpenHelper.android.kt, androidMain/androidx/room/ExperimentalRoomApi.android.kt, androidMain/androidx/room/support/AutoCloser.android.kt, androidMain/androidx/room/support/AutoClosingRoomOpenHelperFactory.android.kt, androidMain/androidx/room/support/QueryInterceptorDatabase.android.kt, androidMain/androidx/room/support/QueryInterceptorOpenHelper.android.kt, androidMain/androidx/room/support/QueryInterceptorOpenHelperFactory.android.kt, androidMain/androidx/room/support/QueryInterceptorProgram.android.kt, androidMain/androidx/room/support/QueryInterceptorStatement.android.kt =====
+/*
+ * Copyright 2020 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: androidMain/androidx/room/InvalidationTracker.android.kt, androidMain/androidx/room/RoomOpenHelper.android.kt, androidMain/androidx/room/RoomSQLiteQuery.android.kt, androidMain/androidx/room/package-info.java, androidMain/androidx/room/migration/Migration.android.kt, androidMain/androidx/room/util/TableInfo.android.kt, androidMain/androidx/room/paging/LimitOffsetDataSource.java, commonMain/androidx/room/util/TableInfo.kt =====
+/*
+ * Copyright (C) 2017 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: androidMain/androidx/room/CoroutinesRoom.android.kt, androidMain/androidx/room/InvalidationLiveDataContainer.android.kt, androidMain/androidx/room/MultiInstanceInvalidationClient.android.kt, androidMain/androidx/room/MultiInstanceInvalidationService.android.kt, androidMain/androidx/room/RoomTrackingLiveData.android.kt, androidMain/androidx/room/util/FtsTableInfo.android.kt, androidMain/androidx/room/util/ViewInfo.android.kt =====
+/*
+ * Copyright 2018 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: androidMain/androidx/room/paging/CursorSQLiteStatement.android.kt, androidMain/androidx/room/util/StatementUtil.android.kt, jvmAndroidMain/androidx/room/concurrent/FileLock.jvmAndroid.kt, jvmAndroidMain/androidx/room/concurrent/ThreadLocal.jvmAndroid.kt, jvmAndroidMain/androidx/room/util/KClassUtil.jvmAndroid.kt, commonMain/androidx/room/EntityDeleteOrUpdateAdapter.kt, commonMain/androidx/room/EntityInsertAdapter.kt, commonMain/androidx/room/EntityUpsertAdapter.kt, commonMain/androidx/room/InvalidationTracker.kt, commonMain/androidx/room/Room.kt, commonMain/androidx/room/RoomDatabaseConstructor.kt, commonMain/androidx/room/RoomRawQuery.kt, commonMain/androidx/room/Transactor.kt, commonMain/androidx/room/concurrent/CloseBarrier.kt, commonMain/androidx/room/concurrent/ExclusiveLock.kt, commonMain/androidx/room/concurrent/FileLock.kt, commonMain/androidx/room/concurrent/ThreadLocal.kt, commonMain/androidx/room/coroutines/ConnectionPool.kt, commonMain/androidx/room/coroutines/ConnectionPoolImpl.kt, commonMain/androidx/room/coroutines/FlowBuilder.kt, commonMain/androidx/room/util/ByteArrayWrapper.kt, commonMain/androidx/room/util/ConnectionUtil.kt, commonMain/androidx/room/util/FtsTableInfo.kt, commonMain/androidx/room/util/RelationUtil.kt, commonMain/androidx/room/util/SQLiteUtil.kt, commonMain/androidx/room/util/SchemaInfoUtil.kt, commonMain/androidx/room/util/StatementUtil.kt, commonMain/androidx/room/util/ViewInfo.kt =====
+/*
+ * Copyright 2024 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: androidMain/androidx/room/util/CursorUtil.android.kt, androidMain/androidx/room/util/DBUtil.android.kt =====
+/*
+ * Copyright (C) 2018 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: androidMain/androidx/room/migration/AutoMigrationSpec.android.kt, jvmAndroidMain/androidx/room/util/UUIDUtil.jvmAndroid.kt =====
+/*
+ * Copyright 2021 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: androidMain/androidx/room/DatabaseConfiguration.android.kt, androidMain/androidx/room/EntityDeletionOrUpdateAdapter.android.kt, androidMain/androidx/room/EntityInsertionAdapter.android.kt, androidMain/androidx/room/Room.android.kt, androidMain/androidx/room/RoomDatabase.android.kt, androidMain/androidx/room/SharedSQLiteStatement.android.kt, commonMain/androidx/room/util/StringUtil.kt =====
+/*
+ * Copyright (C) 2016 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: androidMain/androidx/room/coroutines/RunBlockingUninterruptible.android.kt, jvmAndroidMain/androidx/room/concurrent/Atomics.jvmAndroid.kt, jvmAndroidMain/androidx/room/concurrent/ReentrantLock.jvmAndroid.kt, jvmAndroidMain/androidx/room/concurrent/Synchronized.jvmAndroid.kt, commonMain/androidx/room/concurrent/Atomics.kt, commonMain/androidx/room/concurrent/ReentrantLock.kt, commonMain/androidx/room/concurrent/Synchronized.kt, commonMain/androidx/room/coroutines/PassthroughConnectionPool.kt =====
+/*
+ * Copyright 2025 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: androidMain/androidx/room/support/AutoClosingRoomOpenHelper.android.kt =====
+/*
+ * Copyright (C) 2020 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: androidMain/androidx/room/RoomConnectionManager.android.kt, commonMain/androidx/room/DatabaseConfiguration.kt, commonMain/androidx/room/RoomConnectionManager.kt, commonMain/androidx/room/RoomDatabase.kt, commonMain/androidx/room/RoomOpenDelegate.kt, commonMain/androidx/room/migration/AutoMigrationSpec.kt, commonMain/androidx/room/migration/Migration.kt, commonMain/androidx/room/util/DBUtil.kt, commonMain/androidx/room/util/MigrationUtil.kt =====
+/*
+ * Copyright 2023 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+

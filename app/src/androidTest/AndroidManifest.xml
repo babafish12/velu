@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Additional opt-in runner; Gradle's AndroidJUnitRunner remains available. -->
+    <instrumentation
+        android:name="de.voci.R3gMigrationRunner"
+        android:targetPackage="de.voci" />
+</manifest>

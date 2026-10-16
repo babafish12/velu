@@ -1,0 +1,89 @@
+Copyright- und Lizenzkommentare aus dem veröffentlichten Quellarchiv.
+Komponente: androidx.datastore:datastore-core:1.2.1
+Die Kommentare sind unverändert; identische Kommentare sind zusammengefasst.
+
+===== ARCHIVE ENTRIES: commonMain/androidx/datastore/core/Closeable.kt, commonMain/androidx/datastore/core/CorruptionException.kt, commonMain/androidx/datastore/core/DataStoreFactory.kt, commonMain/androidx/datastore/core/Expect.kt, commonMain/androidx/datastore/core/Message.kt, commonMain/androidx/datastore/core/SimpleActor.kt, commonMain/androidx/datastore/core/State.kt, commonMain/androidx/datastore/core/Storage.kt, commonMain/androidx/datastore/core/StorageConnection.kt, nativeMain/androidx/datastore/core/Actual.native.kt =====
+/*
+ * Copyright 2022 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: commonMain/androidx/datastore/core/CorruptionHandler.kt, commonMain/androidx/datastore/core/DataMigration.kt, commonMain/androidx/datastore/core/DataMigrationInitializer.kt, commonMain/androidx/datastore/core/DataStore.kt, commonMain/androidx/datastore/core/InitializerApi.kt, commonMain/androidx/datastore/core/handlers/NoOpCorruptionHandler.kt, commonMain/androidx/datastore/core/handlers/ReplaceFileCorruptionHandler.kt, nativeMain/androidx/datastore/core/DataStoreFactory.native.kt, nativeMain/androidx/datastore/core/handlers/NoOpCorruptionHandler.native.kt, nativeMain/androidx/datastore/core/handlers/ReplaceFileCorruptionHandler.native.kt =====
+/*
+ * Copyright 2020 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: commonMain/androidx/datastore/core/CurrentDataProviderStore.kt =====
+/*
+ * Copyright 2024 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: commonMain/androidx/datastore/core/DirectBootExceptionUtil.kt, nativeMain/androidx/datastore/core/DirectBootExceptionUtil.native.kt =====
+/*
+ * Copyright 2025 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: commonMain/androidx/datastore/core/DataStoreImpl.kt, commonMain/androidx/datastore/core/DataStoreInMemoryCache.kt, commonMain/androidx/datastore/core/InterProcessCoordinator.kt, commonMain/androidx/datastore/core/MutexUtils.kt, commonMain/androidx/datastore/core/SingleProcessCoordinator.kt =====
+/*
+ * Copyright 2023 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+

@@ -1,0 +1,140 @@
+Copyright- und Lizenzkommentare aus dem veröffentlichten Quellarchiv.
+Komponente: androidx.navigation:navigation-common:2.10.2
+Die Kommentare sind unverändert; identische Kommentare sind zusammengefasst.
+
+===== ARCHIVE ENTRIES: commonMain/androidx/navigation/FloatingWindow.kt, commonMain/androidx/navigation/NavBackStackEntry.kt =====
+/*
+ * Copyright 2019 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: commonMain/androidx/navigation/NavDeepLinkDslBuilder.kt, commonMain/androidx/navigation/NavDeepLinkRequest.kt =====
+/*
+ * Copyright 2020 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: commonMain/androidx/navigation/NavDeepLink.kt, commonMain/androidx/navigation/NavDestination.kt, commonMain/androidx/navigation/NavGraphNavigator.kt, commonMain/androidx/navigation/Navigator.kt, commonMain/androidx/navigation/NavigatorProvider.kt =====
+/*
+ * Copyright (C) 2017 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: commonMain/androidx/navigation/NavArgument.kt, commonMain/androidx/navigation/NavDestinationBuilder.kt, commonMain/androidx/navigation/NavGraphBuilder.kt, commonMain/androidx/navigation/NavOptionsBuilder.kt, commonMain/androidx/navigation/NavType.kt, commonMain/androidx/navigation/NoOpNavigator.kt, nonAndroidMain/androidx/navigation/NavOptionsBuilder.nonAndroid.kt =====
+/*
+ * Copyright 2018 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: nonAndroidMain/androidx/navigation/internal/InternalUri.kt, nonAndroidMain/androidx/navigation/internal/UriCodec.kt =====
+/*
+ * Copyright 2026 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: appleMain/androidx/navigation/internal/SynchronizedObject.apple.kt, commonMain/androidx/navigation/CollectionNavType.kt, commonMain/androidx/navigation/NavGraph.kt, commonMain/androidx/navigation/NavOptions.kt, commonMain/androidx/navigation/NavUri.kt, commonMain/androidx/navigation/SavedStateHandle.kt, commonMain/androidx/navigation/SupportingPane.kt, commonMain/androidx/navigation/internal/SynchronizedObject.kt, commonMain/androidx/navigation/serialization/NavTypeConverter.kt, commonMain/androidx/navigation/serialization/RouteBuilder.kt, commonMain/androidx/navigation/serialization/RouteDecoder.kt, commonMain/androidx/navigation/serialization/RouteDeserializer.kt, commonMain/androidx/navigation/serialization/RouteEncoder.kt, commonMain/androidx/navigation/serialization/RouteSerializer.kt, jvmAndAndroidMain/androidx/navigation/internal/SynchronizedObject.jvmAndAndroid.kt, linuxMain/androidx/navigation/internal/SynchronizedObject.native.linux.kt, nativeMain/androidx/navigation/internal/SynchronizedObject.native.kt, nonAndroidMain/androidx/navigation/NavBackStackEntry.nonAndroid.kt, nonAndroidMain/androidx/navigation/NavDestination.nonAndroid.kt, nonAndroidMain/androidx/navigation/NavDestinationBuilder.nonAndroid.kt, nonAndroidMain/androidx/navigation/NavGraph.nonAndroid.kt, nonAndroidMain/androidx/navigation/NavGraphBuilder.nonAndroid.kt, nonAndroidMain/androidx/navigation/NavOptions.nonAndroid.kt, nonAndroidMain/androidx/navigation/NavType.nonAndroid.kt, nonAndroidMain/androidx/navigation/NavUri.nonAndroid.kt, nonAndroidMain/androidx/navigation/NavigatorProvider.nonAndroid.kt, nonAndroidMain/androidx/navigation/serialization/NavTypeConverter.nonAndroid.kt, webMain/androidx/navigation/internal/SynchronizedObject.web.kt =====
+/*
+ * Copyright 2024 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: commonMain/androidx/navigation/NamedNavArgument.kt, commonMain/androidx/navigation/NavViewModelStoreProvider.kt, commonMain/androidx/navigation/NavigatorState.kt =====
+/*
+ * Copyright 2021 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+===== ARCHIVE ENTRIES: commonMain/androidx/navigation/internal/NavContext.kt, commonMain/androidx/navigation/internal/NavDestinationImpl.kt, commonMain/androidx/navigation/internal/NavGraphImpl.kt, nonAndroidMain/androidx/navigation/internal/NavContext.nonAndroid.kt =====
+/*
+ * Copyright 2025 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+

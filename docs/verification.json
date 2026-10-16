@@ -1,0 +1,597 @@
+{
+  "applicationId": "de.voci",
+  "versionName": "0.3.0",
+  "versionCode": 3,
+  "apkSha256": "ffdba3599bb1491f51e186c6d810de5b4936b70c573373fd90a40f170a51d679",
+  "signerSha256": "d428da3d1cd9b59a7a29f76c5308760b94ccfb144c0babfcb4596bb399c7ad4f",
+  "jvm": {
+    "passed": 143,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "android": {
+    "passed": 110,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "instrumentationInvocations": 86,
+    "environment": "Android 16 / API 36 emulator",
+    "cases": [
+      {
+        "class": "de.voci.DeviceAcceptanceTest",
+        "test": "distinctRoutesAndBackstack",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.DeviceAcceptanceTest",
+        "test": "noMandatoryLoginForExamples",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.DeviceAcceptanceTest",
+        "test": "reducedMotionAndRecallAreOptIn",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R2ScopeUiTest",
+        "test": "settingsHaveNoGenerationOrModelManagementEntry",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R2ScopeUiTest",
+        "test": "accountRequiresExplicitMigrationAndRetainsLibrary",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R6BrandMotionTest",
+        "test": "veluReducedHeaderIsImmediatelyReadableAndNonblocking",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7LicenseNavigationTest",
+        "test": "settingsOwnMitRecreationAndBackUseRealNavigation",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7LicenseNavigationTest",
+        "test": "changingTextShowsBsdCopyrightsAndCompleteNoticesOffline",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7CompletionAssetTest",
+        "test": "bundledGeometryHasExpectedSchemaBoundsAndDuration",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7CompletionAssetTest",
+        "test": "realDrawableRendersDistinctFramesAndHoldsCompletedState",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7PassiveUpdateHitTest",
+        "test": "noReleaseNoticeDoesNotBlockNavigationTouches",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7PassiveUpdateHitTest",
+        "test": "offlineNoticeDoesNotBlockNavigationTouches",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7PassiveUpdateHitTest",
+        "test": "idleControlNavigationTouchesWork",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7PassiveUpdateHitTest",
+        "test": "dismissedNoReleaseControlNavigationTouchesWork",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7RetainedRemainingBudgetTest",
+        "test": "r7MeasuredWholeSegmentsAdaptToRateAndRepeatWithinBudget",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7RetainedWheelLanguageTest",
+        "test": "r7TranslationInWheelDoesNotReplanPausedAudio",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7SessionSequenceTest",
+        "test": "naturalCompletionThenSprintThenSecondLessonOwnsFreshQueue",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R4RequestedFeaturesTest",
+        "test": "signedOutNoticeAppearsBeforeGenerationAndAccountActionWorks",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R4RequestedFeaturesTest",
+        "test": "otherAuthDisplayStatesDoNotClaimSignedOut_positiveControl",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R4RequestedFeaturesTest",
+        "test": "librarySingleEntryPlaysOnlyItsFourCuesWithoutOverwritingCourse",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R4RequestedFeaturesTest",
+        "test": "libraryFullCourseStillPlaysWithoutAuthentication_positiveControl",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R4PlaybackEdgeTest",
+        "test": "pendingUncachedSelectionSurvivesOldItemsNaturalEnd",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R4PlaybackEdgeTest",
+        "test": "cachedFullCoursePlaysWithEmptyVoiceInventory_positiveControl",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R4PlaybackEdgeTest",
+        "test": "cachedSingleStartNeedsNoVoiceInventory",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R4PlaybackEdgeTest",
+        "test": "cachedSingleSelectionNeedsNoVoiceInventory",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R4PlaybackEdgeTest",
+        "test": "repeatUncertainAfterSingleSwitchReplaysMarkedAInsteadOfB",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.AccountRecoveryTest",
+        "test": "corruptCiphertextIsPreservedAndAccountScreenCanRetry",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.AudioDeviceTest",
+        "test": "storagePressureRejectsBeforeWriting",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.AudioDeviceTest",
+        "test": "missingOfflineVoiceCreatesNoFileOrMetadata",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.CorrectionPlaybackTest",
+        "test": "savedThreeMinuteReplayDoesNotRewriteOriginalAtOneMinute",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.CorrectionPlaybackTest",
+        "test": "repairedPinnedAssetSurvivesCacheClear",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.CorrectionPlaybackTest",
+        "test": "deletingPendingPreparationCannotPublishSessionOrPlan",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.CorrectionPlaybackTest",
+        "test": "deleteDuringRenderedFileCannotLeaveNewMetadataOrFiles",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.CorrectionPlaybackTest",
+        "test": "deleteAfterAudioRenameCannotLeaveOrphanFile",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.CorrectionPlaybackTest",
+        "test": "deleteDuringPlanPersistenceCannotLeaveSessionOrPlan",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.CorrectionPlaybackTest",
+        "test": "staleRestoreCannotReplaceExplicitStart",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.CorrectionPlaybackTest",
+        "test": "cancellationAfterDatabaseSaveBeforePublicationRollsBackNewLesson",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.CorrectionPlaybackTest",
+        "test": "cancelledGenerationCannotSaveNavigateOrClearSuccessorBusy",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.DeviceAcceptanceTest",
+        "test": "nonLatinDraftSurvivesRecreation",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.DeviceAcceptanceTest",
+        "test": "categoryRenamePreservesLesson",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.DeviceAcceptanceTest",
+        "test": "keystoreCiphertextAndStableHost",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.PlaybackBoundaryTest",
+        "test": "earlierRepositoryReadCannotStartDeletedLesson",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.PlaybackBoundaryTest",
+        "test": "saveActionCannotPinSuccessorSession",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.PlaybackBoundaryTest",
+        "test": "liveBoundaryDuringReplanCannotRestartCurrentSpokenFile",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.PlaybackBoundaryTest",
+        "test": "staleReplanCannotOverwriteNewSessionFile",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.PlaybackBoundaryTest",
+        "test": "staleReplanCannotResurrectDeletedSessionFile",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R2MigrationDeviceTest",
+        "test": "legacyColdStartCannotInvokeProviderOrModifyLibrary",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R2MigrationDeviceTest",
+        "test": "explicitConfirmationPreservesLegacyFilesPreferencesAndReopenedLibrary",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R2MigrationDeviceTest",
+        "test": "savedPlaybackReadBypassesGenerationGate",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R2ScopeUiTest",
+        "test": "legacyDestinationExplainsRemovalWithoutActions",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.RemainingBudgetTest",
+        "test": "speedDuringPrebufferCannotAppendStaleControllerPlaylist",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.ReplayRouteTest",
+        "test": "requestedRouteNeverFinishesForOlderEndedSession",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.ReplayRouteTest",
+        "test": "oldResultRouteCannotDisplayNewSessionStatistics",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.SavedRecallTest",
+        "test": "recallOptInAndOutDoNotRewriteSavedAudioPlan",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.VaultFailureTest",
+        "test": "atomicWriteFailureIsTruthfulAfterFreshManagerAndPreservesOtherAccount",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.VoiceReadinessTest",
+        "test": "transientEmptyInventoryWaitsForRealOfflineVoiceAndSynthesizes",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.VoiceReadinessTest",
+        "test": "coldInstalledItalianVoiceIsReadyBeforeFirstRender",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R5UncertainStarsTest",
+        "test": "libraryPlaybackActionsAndContentRemain_positiveControl",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R5UncertainStarsTest",
+        "test": "libraryStarsToggleIndependentlyWithoutPlaybackOrNavigation",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R5UncertainStarsTest",
+        "test": "libraryMarksSurviveReopenAndNewViewModelAndStayLessonScoped",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R5UncertainStarsTest",
+        "test": "libraryStarsHaveSeparateTrailing48DpTargetsAt200PercentFont",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R5PlayerWheelTest",
+        "test": "originalSingleKeepsSourceIdentityAndRealAudio_positiveControl",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R5PlayerWheelTest",
+        "test": "pausedSingleTouchSwipeCommitsBWithSameSessionAndFourCues",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R5PlayerWheelTest",
+        "test": "playingWheelChoiceSurvivesSlowSynthesisAtOldNaturalBoundary",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R5MotionFeedbackTest",
+        "test": "pendingStatusHasIndependentProgressAndActualCancel",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R5MotionFeedbackTest",
+        "test": "providerErrorClearsFeedbackAndRetryStartsFreshRequest",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R5MotionFeedbackTest",
+        "test": "syntheticSuccessClearsFeedbackAndRequestsPlayer",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R5MotionFeedbackTest",
+        "test": "originalRequestOwnership_positiveControl",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R5WheelEdgeTest",
+        "test": "recoverableSelectionErrorAllowsUnchangedQueueNaturalCompletion",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R5WheelEdgeTest",
+        "test": "committedSelectionSurvivesNoOpDragBeforePersistence",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R5WheelEdgeTest",
+        "test": "committedSelectionSurvivesCancelledDragBeforePersistence",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R5WheelEdgeTest",
+        "test": "ordinaryCommittedSelectionPersists_positiveControl",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R5RejectedSelectionReplayTest",
+        "test": "repeatAfterRejectedSelectionAllowsNaturalCompletion",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R6WheelPersistenceTest",
+        "test": "translatedWheelSurvivesNewViewModelAndLongTextAt200Percent",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R6WheelPersistenceTest",
+        "test": "playingLanguageSwapKeepsQueueAndRapidTogglesAreAtomic",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7ContentAmountTest",
+        "test": "sprintOffersContentAmountsInsteadOfMinutes",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7ForegroundPlaybackTest",
+        "test": "leavingActivityStopsPlayerAndRemovesMediaNotification",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7ForegroundPlaybackTest",
+        "test": "configurationRecreationKeepsForegroundSession",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7PlaybackDepthTest",
+        "test": "legacyTimedPlanReusesFullSourceWithoutChangingSavedLessonOrPlan",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7PlaybackDepthTest",
+        "test": "leavingDuringSelectionRetainsPositionAndExplicitPlayResumesWithoutSynthesis",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7PlaybackDepthTest",
+        "test": "leavingDuringGenerationRejectsLateProviderResult",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7PlaybackDepthTest",
+        "test": "fullQueueContainsEverySourceCueOnceBeyondOldBudgetAndDoesNotRefill",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7PlaybackDepthTest",
+        "test": "leavingDuringSpeedAdjustmentCannotApplyLateQueueOrPlayIntent",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7PlaybackDepthTest",
+        "test": "leavingDuringPreparationCancelsLateAudio",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7PlayerControlsTest",
+        "test": "playerRemovesOnlyTranslationAndRepeatControls",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7TextGeometryTest",
+        "test": "horizontalClippingIsRefused",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7TextGeometryTest",
+        "test": "maxLinesTruncationIsRefused",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7TextGeometryTest",
+        "test": "ellipsisIsRefused",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7TextGeometryTest",
+        "test": "wrapContentParagraphWiderThanNodeIsFullyVisible",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7TextGeometryTest",
+        "test": "verticalClippingIsRefused",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7UpdateArchiveTest",
+        "test": "realArchiveHashLengthAndCorruptionAreRejected",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7UpdateArchiveTest",
+        "test": "actualEqualArchiveAndFalselyClaimedNewerArchiveAreRejected",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7UpdateArchiveTest",
+        "test": "actualInstalledSourceArchiveHasSameNonemptySignerSetAndIdentity",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7UpdateArchiveTest",
+        "test": "actualInstrumentationArchiveCannotReplaceTargetPackage",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7UpdatePlatformTest",
+        "test": "actualSourceCopyUsesContentUriReadGrantOrTruthfullyRefusesMissingPermission",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7UpdatePlatformTest",
+        "test": "settingsIntentIsPackageSpecificAndProviderIsNarrow",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7UpdateUiTest",
+        "test": "consentStreamsBytesAndCancellationPreventsInstaller",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7UpdateUiTest",
+        "test": "automaticPromptWaitsForConsentAndLaterDefers",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7LicenseTest",
+        "test": "bundledLicenseIndexAndEveryTextAreComplete",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7LicenseTest",
+        "test": "settingsExposeOfflineLicenseEntry",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7RetainedAudioDeviceTest",
+        "test": "r7ActualSystemTtsMeasuredAssetsAndBudget",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7RetainedPlaybackBoundaryTest",
+        "test": "r7ClearCachePreservesFullActiveSourcePoolForReplan",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7RetainedPlayerWheelTest",
+        "test": "r7ReducedMotionAt200PercentFontStillSelectsAndExposesReadableContentAndActions",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7RetainedRemainingBudgetTest",
+        "test": "r7SkipTakesEffectOnActualPlayerBeforeReplanNearPauseBoundary",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7RetainedRemainingBudgetTest",
+        "test": "r7LatestSpeedSurvivesImmediateRepeat",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R6BrandMotionTest",
+        "test": "r7FrameworkScrollRequiresFramesButVisibleTargetDoesNot",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R6BrandMotionTest",
+        "test": "r7FreshStartCallbackDispatchesWithoutPreparatoryFrames",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7NativeUpdateArchiveTest",
+        "test": "realNewerDifferentSignerArchiveIsRejected",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7NativeUpdateArchiveTest",
+        "test": "realNewerSameSignerArchiveIsAccepted",
+        "status": "passed"
+      },
+      {
+        "class": "de.voci.R7NativeUpdateArchiveTest",
+        "test": "realNewerDifferentPackageArchiveIsRejected",
+        "status": "passed"
+      }
+    ],
+    "executionPhases": 2
+  },
+  "lint": {
+    "Warning": 16
+  },
+  "uiJourney": "passed; real silent screen recordings",
+  "limits": [
+    "No live ChatGPT account authorization or generation is claimed.",
+    "No physical-device, Bluetooth, acoustic-listening or TalkBack certification is claimed.",
+    "Verifier manifest-only archives were inspected, never installed.",
+    "5 explicit public test-source transformations are documented; application APK is byte-identical to the corresponding candidate.",
+    "The original driver stopped before the final three archive tests because its host-only bundle allowlist lacked the current verified bundle. Its failed record is retained unchanged; the remaining tests and UI ran in a second guarded phase with identical application and test APKs. Every raw test result was independently reparsed."
+  ],
+  "nativeInstaller": {
+    "passed": true,
+    "scope": "Same-version complete APK reinstall through the regular Android installer after explicit settings and update consent; not a live higher-version GitHub download test",
+    "terminalUi": "launcher_after_verified_replacement",
+    "apkSha256": "ffdba3599bb1491f51e186c6d810de5b4936b70c573373fd90a40f170a51d679",
+    "exactInstalledApkReadback": true,
+    "appRelaunchVerified": true,
+    "originalPermissionRestored": true,
+    "sessionFilesRestoredByteIdentical": true,
+    "durableNonDatabaseFilesByteIdentical": 106,
+    "databaseSchemaRowsAndRowidsPreserved": true
+  }
+}
