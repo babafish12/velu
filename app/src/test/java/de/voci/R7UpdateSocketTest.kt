@@ -162,7 +162,8 @@ class R7UpdateSocketTest {
             }
             download = running
             assertTrue("real response-body source was never read", bodyReadEntered.await(5, TimeUnit.SECONDS))
-            assertEquals("server sent real headers", 0L, headersSent.count)
+            // flush can deliver headers before the server thread publishes its subsequent countDown.
+            assertTrue("server sent real headers", headersSent.await(5, TimeUnit.SECONDS))
             // Source entry alone could race with cancellation before delegate.read. Inspect only
             // this reader's real stack until it is inside the JDK socket InputStream read as well.
             withTimeout(5_000) {
